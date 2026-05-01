@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/Story Notes/What Lies Beneath Hollowcove.md",
+                "file": "Mechanics/CLI/backgrounds/backgrounds.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "What Lies Beneath Hollowcove"
+              "title": "backgrounds"
             }
           }
         ]
@@ -237,12 +237,12 @@
   },
   "active": "fdc7b789e8b92b51",
   "lastOpenFiles": [
+    "DM Board/Story Notes/What Lies Beneath Hollowcove.md",
     "DM Board/DM Board.md",
     "DM Board/Party Configuration.md",
     "Mechanics/CLI/backgrounds/backgrounds.md",
     "Mechanics/CLI/backgrounds/acolyte-xphb.md",
     "z_Assets/Misc/ImagePlaceholder.png.md",
-    "DM Board/Story Notes/What Lies Beneath Hollowcove.md",
     "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
     "Templates/New Settlement.md",
     "Templates/New Equipment.md",
