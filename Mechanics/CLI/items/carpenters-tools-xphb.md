@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- compendium/src/5e/xphb
+- item/gear/artisans-tools
+- item/rarity/none
+aliases:
+- "Carpenter's Tools"
+---
+# Carpenter's Tools
+*Artisan's tools*  
+
+
+- **Cost**: 8 gp
+- **Weight**: 6.0 lbs.
+
+- **Ability.** Strength  
+- **Utilize.** Seal or pry open a door or container (DC 20)  
+- **Craft.** [Club](/Mechanics/CLI/items/club-xphb.md), [Greatclub](/Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](/Mechanics/CLI/items/quarterstaff-xphb.md), [Barrel](/Mechanics/CLI/items/barrel-xphb.md), [Chest](/Mechanics/CLI/items/chest-xphb.md), [Ladder](/Mechanics/CLI/items/ladder-xphb.md), [Pole](/Mechanics/CLI/items/pole-xphb.md), [Portable Ram](/Mechanics/CLI/items/portable-ram-xphb.md), [Torch](/Mechanics/CLI/items/torch-xphb.md)  
+
+*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

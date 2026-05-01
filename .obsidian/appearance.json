@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Appearance",
+    "supercharged-links-gen",
+    "dnd5e-compendium",
+    "button fix"
+  ],
+  "accentColor": ""
+}

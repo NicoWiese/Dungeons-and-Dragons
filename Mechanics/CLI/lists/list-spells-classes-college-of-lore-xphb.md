@@ -1,0 +1,208 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- spell/list/subclass/college-of-lore
+aliases:
+- "Spells for College of Lore"
+---
+# Spells for College of Lore
+
+## Cantrip
+
+- [Acid Splash](/Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") at class level 6
+- [Blade Ward](/Mechanics/CLI/spells/blade-ward-xphb.md "XPHB") at class level 6
+- [Chill Touch](/Mechanics/CLI/spells/chill-touch-xphb.md "XPHB") at class level 6
+- [Dancing Lights](/Mechanics/CLI/spells/dancing-lights-xphb.md "XPHB") at class level 6
+- [Druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") at class level 6
+- [Elementalism](/Mechanics/CLI/spells/elementalism-xphb.md "XPHB") at class level 6
+- [Fire Bolt](/Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") at class level 6
+- [Friends](/Mechanics/CLI/spells/friends-xphb.md "XPHB") at class level 6
+- [Guidance](/Mechanics/CLI/spells/guidance-xphb.md "XPHB") at class level 6
+- [Light](/Mechanics/CLI/spells/light-xphb.md "XPHB") at class level 6
+- [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") at class level 6
+- [Mending](/Mechanics/CLI/spells/mending-xphb.md "XPHB") at class level 6
+- [Message](/Mechanics/CLI/spells/message-xphb.md "XPHB") at class level 6
+- [Mind Sliver](/Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB") at class level 6
+- [Minor Illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 6
+- [Poison Spray](/Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") at class level 6
+- [Prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB") at class level 6
+- [Produce Flame](/Mechanics/CLI/spells/produce-flame-xphb.md "XPHB") at class level 6
+- [Ray of Frost](/Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 6
+- [Resistance](/Mechanics/CLI/spells/resistance-xphb.md "XPHB") at class level 6
+- [Sacred Flame](/Mechanics/CLI/spells/sacred-flame-xphb.md "XPHB") at class level 6
+- [Shillelagh](/Mechanics/CLI/spells/shillelagh-xphb.md "XPHB") at class level 6
+- [Shocking Grasp](/Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") at class level 6
+- [Spare the Dying](/Mechanics/CLI/spells/spare-the-dying-xphb.md "XPHB") at class level 6
+- [Starry Wisp](/Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") at class level 6
+- [Thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") at class level 6
+- [Thorn Whip](/Mechanics/CLI/spells/thorn-whip-xphb.md "XPHB") at class level 6
+- [Thunderclap](/Mechanics/CLI/spells/thunderclap-xphb.md "XPHB") at class level 6
+- [Toll the Dead](/Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB") at class level 6
+- [True Strike](/Mechanics/CLI/spells/true-strike-xphb.md "XPHB") at class level 6
+- [Word of Radiance](/Mechanics/CLI/spells/word-of-radiance-xphb.md "XPHB") at class level 6
+
+## 1st Level
+
+- [Alarm](/Mechanics/CLI/spells/alarm-xphb.md "XPHB") at class level 6
+- [Animal Friendship](/Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") at class level 6
+- [Bane](/Mechanics/CLI/spells/bane-xphb.md "XPHB") at class level 6
+- [Bless](/Mechanics/CLI/spells/bless-xphb.md "XPHB") at class level 6
+- [Burning Hands](/Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 6
+- [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 6
+- [Chromatic Orb](/Mechanics/CLI/spells/chromatic-orb-xphb.md "XPHB") at class level 6
+- [Color Spray](/Mechanics/CLI/spells/color-spray-xphb.md "XPHB") at class level 6
+- [Command](/Mechanics/CLI/spells/command-xphb.md "XPHB") at class level 6
+- [Comprehend Languages](/Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB") at class level 6
+- [Create or Destroy Water](/Mechanics/CLI/spells/create-or-destroy-water-xphb.md "XPHB") at class level 6
+- [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB") at class level 6
+- [Detect Evil and Good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md "XPHB") at class level 6
+- [Detect Magic](/Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") at class level 6
+- [Detect Poison and Disease](/Mechanics/CLI/spells/detect-poison-and-disease-xphb.md "XPHB") at class level 6
+- [Disguise Self](/Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 6
+- [Entangle](/Mechanics/CLI/spells/entangle-xphb.md "XPHB") at class level 6
+- [Expeditious Retreat](/Mechanics/CLI/spells/expeditious-retreat-xphb.md "XPHB") at class level 6
+- [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md "XPHB") at class level 6
+- [False Life](/Mechanics/CLI/spells/false-life-xphb.md "XPHB") at class level 6
+- [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md "XPHB") at class level 6
+- [Find Familiar](/Mechanics/CLI/spells/find-familiar-xphb.md "XPHB") at class level 6
+- [Fog Cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 6
+- [Goodberry](/Mechanics/CLI/spells/goodberry-xphb.md "XPHB") at class level 6
+- [Grease](/Mechanics/CLI/spells/grease-xphb.md "XPHB") at class level 6
+- [Guiding Bolt](/Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") at class level 6
+- [Healing Word](/Mechanics/CLI/spells/healing-word-xphb.md "XPHB") at class level 6
+- [Ice Knife](/Mechanics/CLI/spells/ice-knife-xphb.md "XPHB") at class level 6
+- [Identify](/Mechanics/CLI/spells/identify-xphb.md "XPHB") at class level 6
+- [Illusory Script](/Mechanics/CLI/spells/illusory-script-xphb.md "XPHB") at class level 6
+- [Inflict Wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md "XPHB") at class level 6
+- [Jump](/Mechanics/CLI/spells/jump-xphb.md "XPHB") at class level 6
+- [Longstrider](/Mechanics/CLI/spells/longstrider-xphb.md "XPHB") at class level 6
+- [Mage Armor](/Mechanics/CLI/spells/mage-armor-xphb.md "XPHB") at class level 6
+- [Magic Missile](/Mechanics/CLI/spells/magic-missile-xphb.md "XPHB") at class level 6
+- [Protection from Evil and Good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 6
+- [Purify Food and Drink](/Mechanics/CLI/spells/purify-food-and-drink-xphb.md "XPHB") at class level 6
+- [Ray of Sickness](/Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB") at class level 6
+- [Sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md "XPHB") at class level 6
+- [Shield](/Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 6
+- [Shield of Faith](/Mechanics/CLI/spells/shield-of-faith-xphb.md "XPHB") at class level 6
+- [Silent Image](/Mechanics/CLI/spells/silent-image-xphb.md "XPHB") at class level 6
+- [Sleep](/Mechanics/CLI/spells/sleep-xphb.md "XPHB") at class level 6
+- [Speak with Animals](/Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") at class level 6
+- [Tasha's Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 6
+- [Tenser's Floating Disk](/Mechanics/CLI/spells/tensers-floating-disk-xphb.md "XPHB") at class level 6
+- [Thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 6
+- [Unseen Servant](/Mechanics/CLI/spells/unseen-servant-xphb.md "XPHB") at class level 6
+- [Witch Bolt](/Mechanics/CLI/spells/witch-bolt-xphb.md "XPHB") at class level 6
+
+## 2nd Level
+
+- [Aid](/Mechanics/CLI/spells/aid-xphb.md "XPHB") at class level 6
+- [Alter Self](/Mechanics/CLI/spells/alter-self-xphb.md "XPHB") at class level 6
+- [Animal Messenger](/Mechanics/CLI/spells/animal-messenger-xphb.md "XPHB") at class level 6
+- [Arcane Lock](/Mechanics/CLI/spells/arcane-lock-xphb.md "XPHB") at class level 6
+- [Arcane Vigor](/Mechanics/CLI/spells/arcane-vigor-xphb.md "XPHB") at class level 6
+- [Augury](/Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 6
+- [Barkskin](/Mechanics/CLI/spells/barkskin-xphb.md "XPHB") at class level 6
+- [Beast Sense](/Mechanics/CLI/spells/beast-sense-xphb.md "XPHB") at class level 6
+- [Blindness/Deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 6
+- [Blur](/Mechanics/CLI/spells/blur-xphb.md "XPHB") at class level 6
+- [Calm Emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB") at class level 6
+- [Cloud of Daggers](/Mechanics/CLI/spells/cloud-of-daggers-xphb.md "XPHB") at class level 6
+- [Continual Flame](/Mechanics/CLI/spells/continual-flame-xphb.md "XPHB") at class level 6
+- [Crown of Madness](/Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB") at class level 6
+- [Darkness](/Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 6
+- [Darkvision](/Mechanics/CLI/spells/darkvision-xphb.md "XPHB") at class level 6
+- [Detect Thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 6
+- [Dragon's Breath](/Mechanics/CLI/spells/dragons-breath-xphb.md "XPHB") at class level 6
+- [Enhance Ability](/Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB") at class level 6
+- [Enlarge/Reduce](/Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") at class level 6
+- [Find Traps](/Mechanics/CLI/spells/find-traps-xphb.md "XPHB") at class level 6
+- [Flame Blade](/Mechanics/CLI/spells/flame-blade-xphb.md "XPHB") at class level 6
+- [Flaming Sphere](/Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB") at class level 6
+- [Gentle Repose](/Mechanics/CLI/spells/gentle-repose-xphb.md "XPHB") at class level 6
+- [Gust of Wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 6
+- [Heat Metal](/Mechanics/CLI/spells/heat-metal-xphb.md "XPHB") at class level 6
+- [Hold Person](/Mechanics/CLI/spells/hold-person-xphb.md "XPHB") at class level 6
+- [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 6
+- [Knock](/Mechanics/CLI/spells/knock-xphb.md "XPHB") at class level 6
+- [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB") at class level 6
+- [Levitate](/Mechanics/CLI/spells/levitate-xphb.md "XPHB") at class level 6
+- [Locate Animals or Plants](/Mechanics/CLI/spells/locate-animals-or-plants-xphb.md "XPHB") at class level 6
+- [Locate Object](/Mechanics/CLI/spells/locate-object-xphb.md "XPHB") at class level 6
+- [Magic Mouth](/Mechanics/CLI/spells/magic-mouth-xphb.md "XPHB") at class level 6
+- [Magic Weapon](/Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB") at class level 6
+- [Melf's Acid Arrow](/Mechanics/CLI/spells/melfs-acid-arrow-xphb.md "XPHB") at class level 6
+- [Mind Spike](/Mechanics/CLI/spells/mind-spike-xphb.md "XPHB") at class level 6
+- [Mirror Image](/Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") at class level 6
+- [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 6
+- [Moonbeam](/Mechanics/CLI/spells/moonbeam-xphb.md "XPHB") at class level 6
+- [Nystul's Magic Aura](/Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 6
+- [Pass without Trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md "XPHB") at class level 6
+- [Phantasmal Force](/Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 6
+- [Prayer of Healing](/Mechanics/CLI/spells/prayer-of-healing-xphb.md "XPHB") at class level 6
+- [Protection from Poison](/Mechanics/CLI/spells/protection-from-poison-xphb.md "XPHB") at class level 6
+- [Ray of Enfeeblement](/Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 6
+- [Rope Trick](/Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") at class level 6
+- [Scorching Ray](/Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 6
+- [See Invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB") at class level 6
+- [Shatter](/Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 6
+- [Silence](/Mechanics/CLI/spells/silence-xphb.md "XPHB") at class level 6
+- [Spider Climb](/Mechanics/CLI/spells/spider-climb-xphb.md "XPHB") at class level 6
+- [Spike Growth](/Mechanics/CLI/spells/spike-growth-xphb.md "XPHB") at class level 6
+- [Spiritual Weapon](/Mechanics/CLI/spells/spiritual-weapon-xphb.md "XPHB") at class level 6
+- [Suggestion](/Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 6
+- [Summon Beast](/Mechanics/CLI/spells/summon-beast-xphb.md "XPHB") at class level 6
+- [Warding Bond](/Mechanics/CLI/spells/warding-bond-xphb.md "XPHB") at class level 6
+- [Web](/Mechanics/CLI/spells/web-xphb.md "XPHB") at class level 6
+- [Zone of Truth](/Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") at class level 6
+
+## 3rd Level
+
+- [Animate Dead](/Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 6
+- [Aura of Vitality](/Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
+- [Beacon of Hope](/Mechanics/CLI/spells/beacon-of-hope-xphb.md "XPHB") at class level 6
+- [Bestow Curse](/Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 6
+- [Blink](/Mechanics/CLI/spells/blink-xphb.md "XPHB") at class level 6
+- [Call Lightning](/Mechanics/CLI/spells/call-lightning-xphb.md "XPHB") at class level 6
+- [Clairvoyance](/Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 6
+- [Conjure Animals](/Mechanics/CLI/spells/conjure-animals-xphb.md "XPHB") at class level 6
+- [Counterspell](/Mechanics/CLI/spells/counterspell-xphb.md "XPHB") at class level 6
+- [Create Food and Water](/Mechanics/CLI/spells/create-food-and-water-xphb.md "XPHB") at class level 6
+- [Daylight](/Mechanics/CLI/spells/daylight-xphb.md "XPHB") at class level 6
+- [Dispel Magic](/Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB") at class level 6
+- [Elemental Weapon](/Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB") at class level 6
+- [Fear](/Mechanics/CLI/spells/fear-xphb.md "XPHB") at class level 6
+- [Feign Death](/Mechanics/CLI/spells/feign-death-xphb.md "XPHB") at class level 6
+- [Fireball](/Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 6
+- [Fly](/Mechanics/CLI/spells/fly-xphb.md "XPHB") at class level 6
+- [Gaseous Form](/Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB") at class level 6
+- [Glyph of Warding](/Mechanics/CLI/spells/glyph-of-warding-xphb.md "XPHB") at class level 6
+- [Haste](/Mechanics/CLI/spells/haste-xphb.md "XPHB") at class level 6
+- [Hypnotic Pattern](/Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB") at class level 6
+- [Leomund's Tiny Hut](/Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 6
+- [Lightning Bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 6
+- [Magic Circle](/Mechanics/CLI/spells/magic-circle-xphb.md "XPHB") at class level 6
+- [Major Image](/Mechanics/CLI/spells/major-image-xphb.md "XPHB") at class level 6
+- [Mass Healing Word](/Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB") at class level 6
+- [Meld into Stone](/Mechanics/CLI/spells/meld-into-stone-xphb.md "XPHB") at class level 6
+- [Nondetection](/Mechanics/CLI/spells/nondetection-xphb.md "XPHB") at class level 6
+- [Phantom Steed](/Mechanics/CLI/spells/phantom-steed-xphb.md "XPHB") at class level 6
+- [Plant Growth](/Mechanics/CLI/spells/plant-growth-xphb.md "XPHB") at class level 6
+- [Protection from Energy](/Mechanics/CLI/spells/protection-from-energy-xphb.md "XPHB") at class level 6
+- [Remove Curse](/Mechanics/CLI/spells/remove-curse-xphb.md "XPHB") at class level 6
+- [Revivify](/Mechanics/CLI/spells/revivify-xphb.md "XPHB") at class level 6
+- [Sending](/Mechanics/CLI/spells/sending-xphb.md "XPHB") at class level 6
+- [Sleet Storm](/Mechanics/CLI/spells/sleet-storm-xphb.md "XPHB") at class level 6
+- [Slow](/Mechanics/CLI/spells/slow-xphb.md "XPHB") at class level 6
+- [Speak with Dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB") at class level 6
+- [Speak with Plants](/Mechanics/CLI/spells/speak-with-plants-xphb.md "XPHB") at class level 6
+- [Spirit Guardians](/Mechanics/CLI/spells/spirit-guardians-xphb.md "XPHB") at class level 6
+- [Stinking Cloud](/Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB") at class level 6
+- [Summon Fey](/Mechanics/CLI/spells/summon-fey-xphb.md "XPHB") at class level 6
+- [Summon Undead](/Mechanics/CLI/spells/summon-undead-xphb.md "XPHB") at class level 6
+- [Tongues](/Mechanics/CLI/spells/tongues-xphb.md "XPHB") at class level 6
+- [Vampiric Touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB") at class level 6
+- [Water Breathing](/Mechanics/CLI/spells/water-breathing-xphb.md "XPHB") at class level 6
+- [Water Walk](/Mechanics/CLI/spells/water-walk-xphb.md "XPHB") at class level 6
+- [Wind Wall](/Mechanics/CLI/spells/wind-wall-xphb.md "XPHB") at class level 6

@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- compendium/src/5e/xdmg
+- item/gear/treasure-art-object
+- item/rarity/none
+aliases:
+- "Obsidian statuette with gold fittings and inlay"
+---
+# Obsidian statuette with gold fittings and inlay
+*Treasure (art object)*  
+
+
+- **Cost**: 750 gp
+
+*Source: Dungeon Master's Guide (2024) p. 215*

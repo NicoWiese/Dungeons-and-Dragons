@@ -1,0 +1,22 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
+tags:
+- compendium/src/5e/xphb
+- feat
+aliases:
+- "Durable"
+---
+# Durable
+*Source: Player's Handbook (2024) p. 203*  
+
+**Prerequisite**: 4th
+
+You gain the following benefits.
+
+**Ability Score Increase.** Increase your Constitution score by 1, to a maximum of 20.
+
+**Defy Death.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on [Death Saving Throws](/Mechanics/CLI/variant-rules/death-saving-throw-xphb.md).
+
+**Speedy Recovery.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one of your [Hit Point Dice](/Mechanics/CLI/variant-rules/hit-point-dice-xphb.md), roll the die, and regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the roll.
