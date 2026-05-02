@@ -13,7 +13,6 @@
 > [!abstract]+ Create New Location
 `button-NewSettlementID`  `button-NewPOIID`  `button-NewTavernID`
 
-[[backgrounds]]
  -
  -
  -
