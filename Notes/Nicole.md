@@ -15,6 +15,7 @@ SIDE QUESTS
 
 Lost the village cow who's name is "Kao", needs to find it. Not a cow, but called a cow by the mushroom people. 
 
-Got his starting gear from the other "Kao".
+Got his starting gear from the other "Kao". Kao is what the myconids called the adventurers that they were looking after but who passed away. 
 
 Only has 4 fingers. 
+

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6052398c96600c9d",
+        "id": "07a505d1c12aea30",
         "type": "tabs",
         "children": [
           {
-            "id": "80c8b655f7b817e1",
+            "id": "79700ee6540fa4e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Nicole.md",
-                "mode": "source",
+                "file": "DM Board/The World/Factions/Kingdoms/The Holy Empire of Al'Araan.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Nicole"
+              "title": "The Holy Empire of Al'Araan"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "81bdb3a2bcaa34e5",
@@ -235,44 +235,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80c8b655f7b817e1",
+  "active": "79700ee6540fa4e4",
   "lastOpenFiles": [
-    "Mechanics/CLI/spells/tree-stride-xphb.md",
-    "Notes/Nicole.md",
-    "Mechanics/CLI/spells/false-life-xphb.md",
-    "Mechanics/CLI/spells/bane-xphb.md",
+    "DM Board/The World/Factions/Kingdoms/Xull'Vic (The Crimson Abyss).md",
+    "DM Board/The World/Factions/Armies/The Righteous Right Hand of Al'Araan.md",
+    "DM Board/The World/Factions/Armies/Umrae (The Faithful).md",
+    "DM Board/The World/Factions/Kingdoms/The Holy Empire of Al'Araan.md",
+    "Templates/New Group - Kingdom.md",
+    "Templates/New Group - Government.md",
+    "DM Board/The World/Factions/Mercenary Groups/The Gilded Masts.md",
+    "DM Board/The World/Factions/Mercantile/Starweavers.md",
+    "DM Board/The World/Factions/Mercantile/The Iron Basin.md",
+    "DM Board/The World/Factions/Mercantile",
+    "DM Board/The World/Factions/Armies",
+    "DM Board/The World/Factions/Kingdoms",
+    "DM Board/The World/Factions/Mercenary Groups",
     "DM Board/DM Board.md",
-    "Notes",
-    "DM Board/The World/Locations/Taverns/NewTavern.md",
-    "Mechanics/CLI/bastions/bastions.md",
-    "Mechanics/CLI/skills.md",
-    "Mechanics/CLI/senses.md",
-    "Mechanics/CLI/item-types.md",
-    "Mechanics/CLI/item-properties.md",
-    "Mechanics/CLI/item-mastery.md",
-    "Mechanics/CLI/conditions.md",
-    "Mechanics/CLI/diseases.md",
-    "Mechanics/CLI/bestiary/construct/construct.md",
-    "Mechanics/CLI/bestiary/aberration/aberration.md",
-    "Mechanics/CLI/bestiary/beast/beast.md",
-    "Mechanics/CLI/backgrounds/backgrounds.md",
-    "DM Board/Story Notes/What Lies Beneath Hollowcove.md",
+    "DM Board/The World/Factions",
+    "DM Board/The World/Non-Player Characters/TEST.md",
+    "DM Board/The World/Locations/Taverns/The Mossy Stone.md",
+    "NewTavern.md",
+    "DM Board/The World/Locations/Points of Interest/NewPOI.md",
+    "DM Board/The World/Non-Player Characters/Kao the First.md",
     "DM Board/Party Configuration.md",
-    "Mechanics/CLI/backgrounds/acolyte-xphb.md",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
-    "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
-    "Templates/New Settlement.md",
-    "Templates/New Equipment.md",
     "Templates/New NPC.md",
+    "Templates/New Tavern.md",
+    "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
+    "Templates/New NPC Backup.md",
+    "Templates/New Player.md",
+    "Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
+    "Notes/Nicole.md",
+    "Mechanics/CLI/spells/toll-the-dead-xphb.md",
+    "Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md",
+    "DM Board/The World/Non-Player Characters/Kao the Second.md",
+    "Notes",
     "z_Assets/Misc",
     "z_Assets",
     "2. Mechanics/Non-Player Characters",
     "2. Mechanics",
-    "DM Board/Story Notes",
-    "DM Board/The World/Locations/Taverns",
-    "Templates/Java Scripts",
-    "split",
-    "DM Board/The World/Locations/Points of Interest",
     "Mechanics/CLI/classes/img/zealot-barbarian.webp",
     "Mechanics/CLI/classes/img/world-tree-barbarian.webp",
     "Mechanics/CLI/classes/img/wild-magic-sorcerer.webp",
