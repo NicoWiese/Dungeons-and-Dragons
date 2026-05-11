@@ -1,18 +1,20 @@
-# Template – Storyline
+# Main Storyline
 
 ## Overview
-A small village on an island in the middle of a lake harbours a secret. Hidden away in a dark forest that stretches from shore to shore, the villagers worship a dark god while the rest of the world sleeps. Soldiers from the nearby garrison are going missing, and someone needs to find out what what the island is hiding. 
+The adventurers receive an offer almost too good to refuse: 20 gold pieces to help protect the [[Shadowshard Mine]] from a few goblin raiders. 
 
-The adventurers travel to the town and immediately be confronted with a guard and one of the local tavern keepers having an argument. The tavern keeper will tell him that the military had set up an outpost nearby and have been harassing the townspeople. They will ask the adventurers to help them persuade the soldiers to leave them alone. 
+The [[Shadowshard Mine]] is a newly established endeavour that aims to cash in on the mysterious [[Shadowshard Crystals]] recently discovered on the island. The local villagers from [[DM Board/The World/Locations/Hollowcove]] have been hired to help out as manual labour, and a garrison from the [[The Holy Empire of Al'Araan]]'s military was sent to oversee the operation. 
+
+Not long after their arrival, the adventurers start to notice things not quite adding up. 
 
 **Tone & Themes:** Mystery, cosmic horror, paranoia, moral ambiguity  
 
-## Player Hooks
-- The adventurers receive a mysterious plea for help from Rosie, a little dwarf girl from the nearby village. She says that her mom went missing, and nobody is helping her look.
-- The young girl personally seeks out the party before the journey, begging for help. She finds the adventurers in a tavern on the other side of the lake, where she is going from patron to patron begging for help. 
-- A soldier says he is due back at the garrison after a few days leave, but he considers deserting, citing something "wrong" with the islanders. 
-- Religious characters may sense something deeply “wrong” about the place.
-- A merchant's contact on the island is late getting word about a pending shipment. 
+## Story Hooks
+- **[[Too Good To Refuse]]** - The adventurers receive an offer almost too good to refuse: 20 gold pieces to help protect the [[Shadowshard Mine]] from a few goblin raiders. 
+  
+- **[[A Missing Mother]]** - The adventurers receive a plea for help from Rosie, a little dwarf girl from the nearby village. She says that her mom went missing, and nobody is helping her look.
+
+- **[[Sudden Changes ]]** - The garrison sent to watch over [[Shadowshard Mine]] say the villagers have been behaving oddly the last few weeks, ever since a dead [[Dead Drow]] was discovered at the mine entrance. 
 
 **Personal Stakes:**
 
@@ -31,16 +33,16 @@ The adventurers travel to the town and immediately be confronted with a guard an
 - **Secrets:** Has been told by the dark god that they can help find her mom if she lures more people to the island. 
 - **Personality:** Nervous, serious, observant.
 
-**Name:** Captain Halvek
+**Name:** Erkan Halvin
 
 - **Role:** Garrison leader
 - **Motivation:** Prevent “something unnatural” from spreading
 - **Secrets:** Has seen a partial transformation firsthand
 - **Personality:** Stern, exhausted, suspicious
 
-**Name:** Elder Thalos
+**Name:** [[Thalos Darkbarrel]]
 
-- **Role:** Cult leader posing as village elder
+- **Role:** Cult leader posing as village tavernkeeper
 - **Motivation:** Complete a summoning ritual
 - **Secrets:** Already partially transformed
 ### Locations

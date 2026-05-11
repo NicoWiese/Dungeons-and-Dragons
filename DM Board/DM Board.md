@@ -16,6 +16,7 @@
 >  - [[conditions|Conditions]]
 >  - [[saving-throw-xphb|Saving Throw]]
 >  - [[death-saving-throw-xphb|Death Saving Throw]]
+>  - [[actions-in-combat-describing-actions-xdmg|Actions in Combat; Describing Actions]]
 
 > [!abstract]+ Rests
 > - [[short-rest-xphb|Short Rest]]

@@ -8,6 +8,9 @@ Alignment: Lawful Neutral
 Character-Role: Quest Giver
 Location: Hollowcove
 NoteIcon: npc
+aliases:
+  - Rosalind
+  - Rosie
 ---
 
 

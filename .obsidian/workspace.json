@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/DM Board.md",
+                "file": "DM Board/The World/The World.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DM Board"
-            }
-          },
-          {
-            "id": "cee5e5c46ecc93be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/CLI/bestiary/aberration/aberration.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "aberration"
+              "title": "The World"
             }
           }
         ]
@@ -237,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 735.5
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,34 +242,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6119ac6f952d1f30",
+  "active": "760c02f93d020608",
   "lastOpenFiles": [
-    "Mechanics/CLI/backgrounds/backgrounds.md",
     "DM Board/DM Board.md",
-    "Mechanics/CLI/tables/travel-xphb.md",
-    "Mechanics/CLI/tables/preparing-spells-spell-preparation-by-class-xphb.md",
-    "Mechanics/CLI/spells/spells.md",
-    "Mechanics/CLI/variant-rules/saving-throw-xphb.md",
-    "Mechanics/CLI/variant-rules/death-saving-throw-xphb.md",
-    "Mechanics/CLI/variant-rules/armor-class-xphb.md",
-    "Mechanics/CLI/variant-rules/armor-training-xphb.md",
-    "Mechanics/CLI/variant-rules/area-of-effect-xphb.md",
-    "Mechanics/CLI/traps-hazards/traps-hazards.md",
-    "Mechanics/CLI/races/races.md",
-    "Mechanics/CLI/optional-features/optional-features.md",
-    "Mechanics/CLI/objects/objects.md",
-    "Mechanics/CLI/items/items.md",
-    "Mechanics/CLI/feats/feats.md",
-    "Mechanics/CLI/deities/deities.md",
-    "Mechanics/CLI/decks/decks.md",
-    "Mechanics/CLI/bastions/bastions.md",
-    "Mechanics/CLI/variant-rules/attack-roll-xphb.md",
-    "Mechanics/CLI/books/players-handbook-2024/11-rules-glossary.md",
-    "Mechanics/CLI/conditions.md",
-    "Collapsing Roof.md",
-    "Mechanics/CLI/backgrounds/soldier-xphb.md",
-    "Mechanics/CLI/classes/classes.md",
-    "Mechanics/CLI/traps-hazards/collapsing-roof-xdmg.md",
+    "DM Board/The World/The World.md",
+    "DM Board/Party Configuration.md",
+    "DM Board/The World/Non-Player Characters/Dead Drow.md",
+    "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Taverns/The Mossy Pebble.md",
+    "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Taverns/The Drunken Miner.md",
+    "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Hollowcove.md",
+    "DM Board/The World/Locations/Hollowcove.md",
+    "DM Board/The World/Locations/NewSettlement.md",
+    "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Untitled.md",
+    "DM Board/The World/Unique Equipment/Eberhart.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/A Missing Mother.md",
+    "DM Board/The World/Non-Player Characters/Thalos Darkbarrel.md",
+    "DM Board/The World/Locations/Taverns",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/What Lies Beneath Hollowcove.md",
+    "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
+    "DM Board/The World/Factions/Mercantile/The Iron Basin.md",
+    "DM Board/The World/Factions/Mercantile/The Golden Sands.md",
+    "DM Board/The World/Non-Player Characters/Kao the Second.md",
+    "DM Board/The World/Factions/Kingdoms/The Holy Empire of Al'Araan.md",
+    "DM Board/The World/Factions/Armies/The Righteous Right Hand of Al'Araan.md",
+    "DM Board/The World/Factions/Armies/Umrae (The Faithful).md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Sudden Changes.md",
+    "DM Board/The World/Locations/Singing Stone Isle",
+    "DM Board/The World/Locations/Singing Stone Isle/Hollowcove",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Too Good To Refuse.md",
+    "DM Board/Campaign/Campaign.md",
+    "DM Board/Campaign/Campaign.base",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Quest",
+    "DM Board/Campaign/What Lies Beneath Hollowcove",
+    "DM Board/Campaign",
+    "Mechanics/CLI/tables/actions-in-combat-describing-actions-xdmg.md",
+    "Mechanics/CLI/backgrounds/backgrounds.md",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp",
@@ -297,13 +290,6 @@
     "DM Board/Combat/Battle Logs",
     "Mechanics/CLI/bestiary/construct/token/animated-armor-xmm.webp",
     "Mechanics/CLI/bestiary/aberration/img/aberrant-spirit.webp",
-    "DM Board/The World/Factions/Mercantile",
-    "DM Board/The World/Factions/Armies",
-    "DM Board/The World/Factions/Kingdoms",
-    "DM Board/The World/Factions/Mercenary Groups",
-    "DM Board/The World/Factions",
-    "Notes",
-    "z_Assets/Misc",
     "Visuals/Untitled.canvas"
   ]
 }
