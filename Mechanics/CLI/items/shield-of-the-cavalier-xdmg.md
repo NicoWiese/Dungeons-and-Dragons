@@ -17,7 +17,7 @@ aliases:
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have a +2 bonus to [Armor Class](Armor%20Class.md). This bonus is in addition to the Shield's normal bonus to AC.
+While holding this Shield, you have a +2 bonus to [armor-class-xphb](armor-class-xphb.md). This bonus is in addition to the Shield's normal bonus to AC.
 
 The Shield has the following additional properties that you can use while holding it.
 

@@ -22,6 +22,6 @@ Each *Ioun Stone* orbiting your head is considered to be an object you are weari
 
 As a [Utilize](/Mechanics/CLI/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-You gain a +1 bonus to [Armor Class](Armor%20Class.md) while this dusty-rose prism orbits your head.
+You gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md) while this dusty-rose prism orbits your head.
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

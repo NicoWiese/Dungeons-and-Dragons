@@ -98,7 +98,7 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing any armor, your base [Armor Class](Armor%20Class.md) equals 10 plus your Dexterity and Constitution modifiers. You can use a [Shield](/Mechanics/CLI/items/shield-xphb.md) and still gain this benefit.
+While you aren't wearing any armor, your base [armor-class-xphb](armor-class-xphb.md) equals 10 plus your Dexterity and Constitution modifiers. You can use a [Shield](/Mechanics/CLI/items/shield-xphb.md) and still gain this benefit.
 
 ### Weapon Mastery (Level 1)
 

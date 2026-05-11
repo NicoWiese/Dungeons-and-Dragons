@@ -19,7 +19,7 @@ This beetle-shaped medallion provides three benefits while it is on your person.
 
 ## Defense
 
-You gain a +1 bonus to [Armor Class](Armor%20Class.md).
+You gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md).
 
 ## Preservation
 

@@ -35,7 +35,7 @@ aliases:
 - **Components:** V, S, M (a shaving of licorice root)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is doubled, it gains a +2 bonus to [Armor Class](Armor%20Class.md), it has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](/Mechanics/CLI/actions.md#Attack) (one attack only), [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), [Hide](/Mechanics/CLI/actions.md#Hide), or [Utilize](/Mechanics/CLI/actions.md#Utilize) action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is doubled, it gains a +2 bonus to [armor-class-xphb](armor-class-xphb.md), it has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](/Mechanics/CLI/actions.md#Attack) (one attack only), [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), [Hide](/Mechanics/CLI/actions.md#Hide), or [Utilize](/Mechanics/CLI/actions.md#Utilize) action.
 
 When the spell ends, the target is [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) and has a [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) of 0 until the end of its next turn, as a wave of lethargy washes over it.
 

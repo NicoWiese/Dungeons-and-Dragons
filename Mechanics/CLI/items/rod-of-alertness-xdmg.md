@@ -29,7 +29,7 @@ While holding the rod, you have [Advantage](/Mechanics/CLI/variant-rules/advanta
 
 ## Protective Aura
 
-As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 60-foot radius and [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 60 feet. While in that [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md), you and your allies gain a +1 bonus to [Armor Class](Armor%20Class.md) and saving throws and can sense the location of any [Invisible](/Mechanics/CLI/conditions.md#Invisible) creature that is also in the [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md).
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 60-foot radius and [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 60 feet. While in that [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md), you and your allies gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md) and saving throws and can sense the location of any [Invisible](/Mechanics/CLI/conditions.md#Invisible) creature that is also in the [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md).
 
 The rod's head stops glowing and the effect ends after 10 minutes or when a creature takes a [Magic](/Mechanics/CLI/actions.md#Magic) action to pull the rod from the ground. Once used, this property can't be used again until the next dawn.
 

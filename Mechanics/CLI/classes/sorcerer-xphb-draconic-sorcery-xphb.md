@@ -54,7 +54,7 @@ Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon fac
 
 The magic in your body manifests physical traits of your draconic gift. Your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [Armor Class](Armor%20Class.md) equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [armor-class-xphb](armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Draconic Spells (Level 3)
 

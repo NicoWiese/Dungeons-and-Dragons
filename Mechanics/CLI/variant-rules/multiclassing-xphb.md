@@ -42,7 +42,7 @@ Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmor
 
 ### Armor Class
 
-If you have multiple ways to calculate your [Armor Class](Armor%20Class.md), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [armor-class-xphb](armor-class-xphb.md), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 ### Extra Attack
 

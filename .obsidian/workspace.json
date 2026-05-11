@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "07a505d1c12aea30",
+        "id": "c15c7037219240fa",
         "type": "tabs",
         "children": [
           {
-            "id": "79700ee6540fa4e4",
+            "id": "baac179a1ce33a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/The World/Factions/Kingdoms/The Holy Empire of Al'Araan.md",
+                "file": "DM Board/DM Board.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Holy Empire of Al'Araan"
+              "title": "DM Board"
+            }
+          },
+          {
+            "id": "cee5e5c46ecc93be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/CLI/bestiary/aberration/aberration.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "aberration"
             }
           }
         ]
@@ -54,7 +68,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 397.5
   },
   "right": {
     "id": "81bdb3a2bcaa34e5",
@@ -87,6 +101,7 @@
       {
         "id": "d75100630e5fdb7c",
         "type": "tabs",
+        "dimension": 44.38254410399257,
         "children": [
           {
             "id": "b35f71f95eb1672d",
@@ -123,23 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non-Player Characters/Test Character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Character"
-            }
-          },
-          {
-            "id": "599ab20dd7362fe0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "title": "Outline"
             }
           },
           {
@@ -148,12 +152,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New Settlement"
+              "title": "Outgoing links"
             }
           },
           {
@@ -176,16 +179,6 @@
             }
           },
           {
-            "id": "024f44ce8af6d212",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "6119ac6f952d1f30",
             "type": "leaf",
             "state": {
@@ -194,13 +187,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3c36d51356ed1875",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "06c2e9c7a8df25e3",
         "type": "tabs",
+        "dimension": 35.84029712163417,
         "children": [
           {
             "id": "6fdd4bf5c15d7c35",
@@ -213,10 +217,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "078583215dfa160a",
+        "type": "tabs",
+        "dimension": 19.777158774373262,
+        "children": [
+          {
+            "id": "29a177596a370d94",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 735.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,54 +256,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79700ee6540fa4e4",
+  "active": "6119ac6f952d1f30",
   "lastOpenFiles": [
-    "DM Board/The World/Factions/Kingdoms/Xull'Vic (The Crimson Abyss).md",
-    "DM Board/The World/Factions/Armies/The Righteous Right Hand of Al'Araan.md",
-    "DM Board/The World/Factions/Armies/Umrae (The Faithful).md",
-    "DM Board/The World/Factions/Kingdoms/The Holy Empire of Al'Araan.md",
-    "Templates/New Group - Kingdom.md",
-    "Templates/New Group - Government.md",
-    "DM Board/The World/Factions/Mercenary Groups/The Gilded Masts.md",
-    "DM Board/The World/Factions/Mercantile/Starweavers.md",
-    "DM Board/The World/Factions/Mercantile/The Iron Basin.md",
+    "Mechanics/CLI/backgrounds/backgrounds.md",
+    "DM Board/DM Board.md",
+    "Mechanics/CLI/tables/travel-xphb.md",
+    "Mechanics/CLI/tables/preparing-spells-spell-preparation-by-class-xphb.md",
+    "Mechanics/CLI/spells/spells.md",
+    "Mechanics/CLI/variant-rules/saving-throw-xphb.md",
+    "Mechanics/CLI/variant-rules/death-saving-throw-xphb.md",
+    "Mechanics/CLI/variant-rules/armor-class-xphb.md",
+    "Mechanics/CLI/variant-rules/armor-training-xphb.md",
+    "Mechanics/CLI/variant-rules/area-of-effect-xphb.md",
+    "Mechanics/CLI/traps-hazards/traps-hazards.md",
+    "Mechanics/CLI/races/races.md",
+    "Mechanics/CLI/optional-features/optional-features.md",
+    "Mechanics/CLI/objects/objects.md",
+    "Mechanics/CLI/items/items.md",
+    "Mechanics/CLI/feats/feats.md",
+    "Mechanics/CLI/deities/deities.md",
+    "Mechanics/CLI/decks/decks.md",
+    "Mechanics/CLI/bastions/bastions.md",
+    "Mechanics/CLI/variant-rules/attack-roll-xphb.md",
+    "Mechanics/CLI/books/players-handbook-2024/11-rules-glossary.md",
+    "Mechanics/CLI/conditions.md",
+    "Collapsing Roof.md",
+    "Mechanics/CLI/backgrounds/soldier-xphb.md",
+    "Mechanics/CLI/classes/classes.md",
+    "Mechanics/CLI/traps-hazards/collapsing-roof-xdmg.md",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp",
+    "Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
+    "DM Board/Combat/Encounters",
+    "DM Board/Combat",
+    "DM Board/Combat/Battle Logs",
+    "Mechanics/CLI/bestiary/construct/token/animated-armor-xmm.webp",
+    "Mechanics/CLI/bestiary/aberration/img/aberrant-spirit.webp",
     "DM Board/The World/Factions/Mercantile",
     "DM Board/The World/Factions/Armies",
     "DM Board/The World/Factions/Kingdoms",
     "DM Board/The World/Factions/Mercenary Groups",
-    "DM Board/DM Board.md",
     "DM Board/The World/Factions",
-    "DM Board/The World/Non-Player Characters/TEST.md",
-    "DM Board/The World/Locations/Taverns/The Mossy Stone.md",
-    "NewTavern.md",
-    "DM Board/The World/Locations/Points of Interest/NewPOI.md",
-    "DM Board/The World/Non-Player Characters/Kao the First.md",
-    "DM Board/Party Configuration.md",
-    "Templates/New NPC.md",
-    "Templates/New Tavern.md",
-    "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
-    "Templates/New NPC Backup.md",
-    "Templates/New Player.md",
-    "Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
-    "Notes/Nicole.md",
-    "Mechanics/CLI/spells/toll-the-dead-xphb.md",
-    "Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md",
-    "DM Board/The World/Non-Player Characters/Kao the Second.md",
     "Notes",
     "z_Assets/Misc",
-    "z_Assets",
-    "2. Mechanics/Non-Player Characters",
-    "2. Mechanics",
-    "Mechanics/CLI/classes/img/zealot-barbarian.webp",
-    "Mechanics/CLI/classes/img/world-tree-barbarian.webp",
-    "Mechanics/CLI/classes/img/wild-magic-sorcerer.webp",
-    "Mechanics/CLI/classes/img/warlock.webp",
-    "Mechanics/CLI/classes/img/wizard.webp",
-    "Mechanics/CLI/classes/img/wild-heart-barbarian.webp",
-    "Mechanics/CLI/classes/img/war-cleric.webp",
-    "Mechanics/CLI/classes/img/trickery-cleric.webp",
-    "Mechanics/CLI/classes/img/vengeance-paladin.webp",
-    "Mechanics/CLI/classes/img/valor-bard.webp",
     "Visuals/Untitled.canvas"
   ]
 }

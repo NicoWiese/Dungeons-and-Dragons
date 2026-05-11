@@ -36,7 +36,7 @@ While holding this weapon, you have [Advantage](/Mechanics/CLI/variant-rules/adv
 
 ## Attack Deflection (Quarterstaff Form Only)
 
-When you are hit by an attack while holding the weapon, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to twirl the weapon around you, gaining a +5 bonus to your [Armor Class](Armor%20Class.md) against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+When you are hit by an attack while holding the weapon, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to twirl the weapon around you, gaining a +5 bonus to your [armor-class-xphb](armor-class-xphb.md) against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Ranged Weapon (Quarterstaff Form Only)
 

@@ -21,7 +21,7 @@ aliases:
 - **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-This staff has 20 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you gain a +2 bonus to [Armor Class](Armor%20Class.md), saving throws, and spell attack rolls.
+This staff has 20 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you gain a +2 bonus to [armor-class-xphb](armor-class-xphb.md), saving throws, and spell attack rolls.
 
 ## Spells
 

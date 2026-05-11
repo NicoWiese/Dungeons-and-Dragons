@@ -181,7 +181,7 @@ You can alter a creature's size and creature type as you please. For example, yo
 
 #### Ability Scores
 
-You can usually change a creature's Intelligence, Wisdom, and Charisma scores freely unless the ability is used for spellcasting. For example, a [Black Pudding](/Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) stat block could represent a sapient alien if you raise its Intelligence and Charisma to 10 or so. It's usually best to leave its Strength, Dexterity, and Constitution scores alone, as changes to these scores can alter a monster's attack bonus, damage, [Armor Class](Armor%20Class.md), or [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), which in turn can alter its [Challenge Rating](/Mechanics/CLI/variant-rules/challenge-rating-xphb.md).
+You can usually change a creature's Intelligence, Wisdom, and Charisma scores freely unless the ability is used for spellcasting. For example, a [Black Pudding](/Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) stat block could represent a sapient alien if you raise its Intelligence and Charisma to 10 or so. It's usually best to leave its Strength, Dexterity, and Constitution scores alone, as changes to these scores can alter a monster's attack bonus, damage, [armor-class-xphb](armor-class-xphb.md), or [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), which in turn can alter its [Challenge Rating](/Mechanics/CLI/variant-rules/challenge-rating-xphb.md).
 
 #### Languages
 

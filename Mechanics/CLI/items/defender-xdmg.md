@@ -48,7 +48,7 @@ aliases:
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
 
-The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [Armor Class](Armor%20Class.md). For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [Armor Class](Armor%20Class.md). The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
+The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [armor-class-xphb](armor-class-xphb.md). For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [armor-class-xphb](armor-class-xphb.md). The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
 
 **Variants**:
 - [Defender Battleaxe](#Defender%20Battleaxe)

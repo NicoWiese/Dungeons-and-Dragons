@@ -334,7 +334,7 @@ Write your Dexterity modifier in the space for Initiative on your character shee
 
 ##### Armor Class
 
-Without armor or a shield, your base [Armor Class](Armor%20Class.md) is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "chapter 6". A class feature might give you a different way to calculate your AC.
+Without armor or a shield, your base [armor-class-xphb](armor-class-xphb.md) is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "chapter 6". A class feature might give you a different way to calculate your AC.
 
 ##### Attacks
 
@@ -470,7 +470,7 @@ Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmor
 
 #### Armor Class
 
-If you have multiple ways to calculate your [Armor Class](Armor%20Class.md), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [armor-class-xphb](armor-class-xphb.md), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 #### Extra Attack
 

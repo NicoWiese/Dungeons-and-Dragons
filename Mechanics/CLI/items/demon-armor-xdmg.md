@@ -31,7 +31,7 @@ aliases:
 
 - **Properties**: [Cursed](/Mechanics/CLI/item-properties.md#Cursed%20Items)
 
-While wearing this armor, you gain a +1 bonus to [Armor Class](Armor%20Class.md), and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `1d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
+While wearing this armor, you gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md), and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `1d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
 
 ## Curse
 

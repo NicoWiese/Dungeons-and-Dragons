@@ -20,7 +20,7 @@ aliases:
 
 Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case, Dragon Scale Mail is highly valued.
 
-While wearing this armor, you gain a +1 bonus to [Armor Class](Armor%20Class.md), you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against the breath weapons of Dragons, and you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to fire damage.
+While wearing this armor, you gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md), you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against the breath weapons of Dragons, and you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to fire damage.
 
 Additionally, you can focus your senses as a [Magic](/Mechanics/CLI/actions.md#Magic) action to discern the distance and direction to the closest gold dragon within 30 miles of yourself. This action can't be used again until the next dawn.
 

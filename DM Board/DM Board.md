@@ -1,11 +1,31 @@
 
-| Player | Character       | [[Passive Perception]] | [[Armor Class]] |
+| Player | Character       | [[Passive Perception]] | [[armor-class-xphb]] |
 | ------ | --------------- | ---------------------- | --------------- |
 | Nicole | [[Character 1]] | 12                     | 9               |
 | Daniel | Character Name  |                        |                 |
 | Mogau  | Character Name  |                        |                 |
 | Tyler  | Character Name  |                        |                 |
 | Damean | Character Name  |                        |                 |
+
+[[11-rules-glossary|Rules Glossary]]
+
+[[attack-roll-xphb|Attack Roll]]
+
+> [!abstract]+ General Rules
+> -  [[travel-xphb|Travel]]
+>  - [[conditions|Conditions]]
+>  - [[saving-throw-xphb|Saving Throw]]
+>  - [[death-saving-throw-xphb|Death Saving Throw]]
+
+> [!abstract]+ Rests
+> - [[short-rest-xphb|Short Rest]]
+> - [[long-rest-xphb|Long Rest]]
+> 
+
+> [!abstract]+ Spellcasting 
+>  - [[spells|Spells]]
+> - [[preparing-spells-spell-preparation-by-class-xphb|Spell Preperation]]
+
 
 > [!abstract]+ Create New
 > `button-NewNPCID` `button-NewEquipmentID` `button-NewReligionID`

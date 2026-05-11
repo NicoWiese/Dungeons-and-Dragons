@@ -1,8 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
+aliases:
+  - Spells
 ---
 # Index of Spells
 

@@ -55,7 +55,7 @@ Once you use the sword to cast a spell, you can't cast that spell again from it 
 While the sword is on your person, you gain the following benefits:
 
 - **Battle Hunger.** You add `1d10` to your [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls.  
-- **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [Armor Class](Armor%20Class.md) instead. The adjusted bonuses remain in effect until the start of your next turn.  
+- **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [armor-class-xphb](armor-class-xphb.md) instead. The adjusted bonuses remain in effect until the start of your next turn.  
 - **Necrotic Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Necrotic damage.  
 
 ## Sentience

@@ -15,6 +15,6 @@ aliases:
 ![](/Mechanics/CLI/items/img/ring-of-protection.webp#right)
 
 
-You gain a +1 bonus to [Armor Class](Armor%20Class.md) and saving throws while wearing this ring.
+You gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md) and saving throws while wearing this ring.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

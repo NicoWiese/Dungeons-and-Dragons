@@ -93,7 +93,7 @@ You can use your Dexterity modifier instead of your Strength modifier for the at
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing armor or wielding a [Shield](/Mechanics/CLI/items/shield-xphb.md), your base [Armor Class](Armor%20Class.md) equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a [Shield](/Mechanics/CLI/items/shield-xphb.md), your base [armor-class-xphb](armor-class-xphb.md) equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Monk's Focus (Level 2)
 

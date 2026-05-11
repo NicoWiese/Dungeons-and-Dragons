@@ -14,7 +14,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ## Armor Class
 
-The Object [Armor Class](Armor%20Class.md) table suggests ACs for various substances.
+The Object [armor-class-xphb](armor-class-xphb.md) table suggests ACs for various substances.
 
 **Object Armor Class**
 

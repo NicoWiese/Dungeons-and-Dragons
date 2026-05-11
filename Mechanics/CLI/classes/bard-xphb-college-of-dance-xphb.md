@@ -60,7 +60,7 @@ You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on any Char
 
 ### Unarmored Defense (Level 3)
 
-Your base [Armor Class](Armor%20Class.md) equals 10 plus your Dexterity and Charisma modifiers.
+Your base [armor-class-xphb](armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Agile Strikes (Level 3)
 

@@ -53,7 +53,7 @@ Here are definitions of various rules.
 > ![Area of Effect](/Mechanics/CLI/variant-rules/area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Armor Class
-> ![Armor Class](Armor%20Class.md)
+> ![armor-class-xphb](armor-class-xphb.md)
 
 > [!embed-variantrule]- Armor Training
 > ![Armor Training](/Mechanics/CLI/variant-rules/armor-training-xphb.md)

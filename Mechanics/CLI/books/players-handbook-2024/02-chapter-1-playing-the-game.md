@@ -172,7 +172,7 @@ When the outcome of an action is uncertain, the game uses a `d20` roll to determ
 -     - **The Relevant Ability Modifier.** This chapter and the "rules glossary" explain which ability modifiers to use for various [D20 Tests](/Mechanics/CLI/variant-rules/d20-test-xphb.md).    
         - **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) that uses something, such as a skill, in which the creature has proficiency. See ""Proficiency"" later in this chapter.    
         - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
-- **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](/Mechanics/CLI/variant-rules/difficulty-class-xphb.md) (DC). The target number for an attack roll is called an [Armor Class](Armor%20Class.md) (AC), which appears on a character sheet or in a [stat block](/Mechanics/CLI/variant-rules/stat-block-xphb.md).  
+- **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](/Mechanics/CLI/variant-rules/difficulty-class-xphb.md) (DC). The target number for an attack roll is called an [armor-class-xphb](armor-class-xphb.md) (AC), which appears on a character sheet or in a [stat block](/Mechanics/CLI/variant-rules/stat-block-xphb.md).  
 
 ![A D20 Test can result in a...](/Mechanics/CLI/books/players-handbook-2024/img/002-01-003-d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe")
 
@@ -1185,7 +1185,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (11)—Attack Rolls
 > 
-> When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target's [Armor Class](Armor%20Class.md) (AC), the attack hits.
+> When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target's [armor-class-xphb](armor-class-xphb.md) (AC), the attack hits.
 ^11-attack-rolls
 
 > [!note] (12)—Spells and Reactions

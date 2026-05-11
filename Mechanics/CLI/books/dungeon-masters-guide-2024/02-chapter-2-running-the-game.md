@@ -323,7 +323,7 @@ For example, if your game features a lot of social interaction, you can record e
 
 In combat, an attack roll is used to determine whether an attack hits.
 
-You can also use attack rolls to resolve noncombat activities that are similar to attacks in combat, such as an archery contest or a game of darts. Assign an [Armor Class](Armor%20Class.md) to the target, decide whether the character is proficient with the weapon used, then have the player make an attack roll. (See also ""Degrees of Success"" in this chapter.)
+You can also use attack rolls to resolve noncombat activities that are similar to attacks in combat, such as an archery contest or a game of darts. Assign an [armor-class-xphb](armor-class-xphb.md) to the target, decide whether the character is proficient with the weapon used, then have the player make an attack roll. (See also ""Degrees of Success"" in this chapter.)
 
 ### Saving Throws
 

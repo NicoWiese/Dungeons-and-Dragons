@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Fighting Style Feature
 
-While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to [Armor Class](Armor%20Class.md).
+While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to [armor-class-xphb](armor-class-xphb.md).

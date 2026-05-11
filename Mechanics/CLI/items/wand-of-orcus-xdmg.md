@@ -42,7 +42,7 @@ The detrimental properties of the Wand of Orcus are suppressed while the wand is
 
 ## Protection
 
-You gain a +3 bonus to [Armor Class](Armor%20Class.md) while holding the wand.
+You gain a +3 bonus to [armor-class-xphb](armor-class-xphb.md) while holding the wand.
 
 ## Spells
 

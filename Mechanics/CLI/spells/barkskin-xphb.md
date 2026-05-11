@@ -27,7 +27,7 @@ aliases:
 - **Components:** V, S, M (a handful of oak bark)
 - **Duration:** 1 hour
 
-You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [Armor Class](Armor%20Class.md) of 17 if its AC is lower than that.
+You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [armor-class-xphb](armor-class-xphb.md) of 17 if its AC is lower than that.
 
 **Classes**: [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
 

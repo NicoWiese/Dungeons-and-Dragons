@@ -17,4 +17,4 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity score by 1, to a maximum of 20.
 
-**Parry.** If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to add your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to your [Armor Class](Armor%20Class.md), potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+**Parry.** If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to add your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to your [armor-class-xphb](armor-class-xphb.md), potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.

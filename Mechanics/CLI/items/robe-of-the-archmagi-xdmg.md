@@ -20,7 +20,7 @@ You gain these benefits while wearing the robe.
 
 ## Armor
 
-If you aren't wearing armor, your base [Armor Class](Armor%20Class.md) is 15 plus your Dexterity modifier.
+If you aren't wearing armor, your base [armor-class-xphb](armor-class-xphb.md) is 15 plus your Dexterity modifier.
 
 ## Magic Resistance
 

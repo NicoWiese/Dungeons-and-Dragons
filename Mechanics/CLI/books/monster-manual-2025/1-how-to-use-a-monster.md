@@ -39,7 +39,7 @@ A monster has a stat block that contains the rules necessary to use it in the ga
 
 - **Name and General Details.** The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.  
 
-- **Combat Highlights.** [Armor Class](Armor%20Class.md), [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md), and [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) are provided here.  
+- **Combat Highlights.** [armor-class-xphb](armor-class-xphb.md), [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md), and [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) are provided here.  
 
 - **Ability Scores.** A monster's ability scores, ability modifiers, and saving throws are listed here.  
 
@@ -125,7 +125,7 @@ The "Player's Handbook" describes the "nine alignments" and "unaligned creatures
 
 ### Armor Class
 
-A monster's [Armor Class](Armor%20Class.md) (AC) includes its natural armor, Dexterity, gear, and other defenses. See the "Player's Handbook" for information on [Armor Class](Armor%20Class.md).
+A monster's [armor-class-xphb](armor-class-xphb.md) (AC) includes its natural armor, Dexterity, gear, and other defenses. See the "Player's Handbook" for information on [armor-class-xphb](armor-class-xphb.md).
 
 ### Initiative
 

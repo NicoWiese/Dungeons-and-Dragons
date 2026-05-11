@@ -1,48 +1,33 @@
 ---
 type: Character
-level: 
-hp: 
-ac: 
-modifier: 
 ---
 
-<%*
-const name = await tp.system.prompt("Character Name");
-await tp.file.rename(name);
+# Mogau
 
-const level = Number(await tp.system.prompt("Level"));
+> [!infobox]
+> ## Mogau
+> Level: 1  
+> HP: 14 | AC: 12 | Speed: 30  
+> Initiative: +0  
+> Passive Perception: 10
 
-const str = Number(await tp.system.prompt("STR"));
-const dex = Number(await tp.system.prompt("DEX"));
-const con = Number(await tp.system.prompt("CON"));
-const intStat = Number(await tp.system.prompt("INT"));
-const wis = Number(await tp.system.prompt("WIS"));
-const cha = Number(await tp.system.prompt("CHA"));
+---
 
-const hp = Number(await tp.system.prompt("HP"));
-const ac = Number(await tp.system.prompt("AC"));
-const speed = await tp.system.prompt("Speed");
+## Ability Scores & Saving Throws
 
-/* PRE-CALC (safe for infobox) */
-function mod(x){ return Math.floor((x-10)/2); }
-function fmt(x){ return x >= 0 ? `+${x}` : `${x}`; }
+```dataviewjs
 
-const initiative = fmt(mod(dex));
-const passivePerception = 10 + mod(wis);
-
-/* SHARED DATA BLOCK */
-const dataBlock = `
 const DATA = {
-  level: ${level},
-  str: ${str},
-  dex: ${dex},
-  con: ${con},
-  int: ${intStat},
-  wis: ${wis},
-  cha: ${cha},
-  hp: ${hp},
-  ac: ${ac},
-  speed: "${speed}",
+  level: 1,
+  str: 10,
+  dex: 10,
+  con: 10,
+  int: 10,
+  wis: 10,
+  cha: 10,
+  hp: 14,
+  ac: 12,
+  speed: "30",
 
   prof_str: false,
   prof_dex: false,
@@ -51,23 +36,7 @@ const DATA = {
   prof_wis: false,
   prof_cha: false
 };
-`;
 
-tR += `# ${name}
-
-> [!infobox]
-> ## ${name}
-> Level: ${level}  
-> HP: ${hp} | AC: ${ac} | Speed: ${speed}  
-> Initiative: ${initiative}  
-> Passive Perception: ${passivePerception}
-
----
-
-## Ability Scores & Saving Throws
-
-\`\`\`dataviewjs
-${dataBlock}
 
 const prof = Math.ceil(DATA.level / 4) + 1;
 
@@ -90,14 +59,34 @@ dv.table(
 ["CHA", DATA.cha, fmt(mod(DATA.cha)), fmt(save(DATA.cha, DATA.prof_cha))]
 ]
 );
-\`\`\`
+```
 
 ---
 
 ## Skills
 
-\`\`\`dataviewjs
-${dataBlock}
+```dataviewjs
+
+const DATA = {
+  level: 1,
+  str: 10,
+  dex: 10,
+  con: 10,
+  int: 10,
+  wis: 10,
+  cha: 10,
+  hp: 14,
+  ac: 12,
+  speed: "30",
+
+  prof_str: false,
+  prof_dex: false,
+  prof_con: false,
+  prof_int: false,
+  prof_wis: false,
+  prof_cha: false
+};
+
 
 const prof = Math.ceil(DATA.level / 4) + 1;
 
@@ -131,7 +120,7 @@ dv.table(
 ["Survival (WIS)", fmt(skill(DATA.wis))]
 ]
 );
-\`\`\`
+```
 
 ---
 
@@ -151,5 +140,3 @@ Items:
 ---
 
 ## Features & Notes
-`;
-%>
