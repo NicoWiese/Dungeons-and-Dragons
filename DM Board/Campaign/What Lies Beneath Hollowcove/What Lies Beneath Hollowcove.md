@@ -10,11 +10,11 @@ Not long after their arrival, the adventurers start to notice things not quite a
 **Tone & Themes:** Mystery, cosmic horror, paranoia, moral ambiguity  
 
 ## Story Hooks
-- **[[Too Good To Refuse]]** - The adventurers receive an offer almost too good to refuse: 20 gold pieces to help protect the [[Shadowshard Mine]] from a few goblin raiders. 
+- **[[1. Too Good To Refuse]]** - The adventurers receive an offer almost too good to refuse: 20 gold pieces to help protect the [[Shadowshard Mine]] from a few goblin raiders. 
   
-- **[[A Missing Mother]]** - The adventurers receive a plea for help from Rosie, a little dwarf girl from the nearby village. She says that her mom went missing, and nobody is helping her look.
+- **[[2. A Missing Mother]]** - The adventurers receive a plea for help from Rosie, a little dwarf girl from the nearby village. She says that her mom went missing, and nobody is helping her look.
 
-- **[[Sudden Changes ]]** - The garrison sent to watch over [[Shadowshard Mine]] say the villagers have been behaving oddly the last few weeks, ever since a dead [[Dead Drow]] was discovered at the mine entrance. 
+- **[[3. Sudden Changes]]** - The garrison sent to watch over [[Shadowshard Mine]] say the villagers have been behaving oddly the last few weeks, ever since a dead [[Dead Drow]] was discovered at the mine entrance. 
 
 **Personal Stakes:**
 
@@ -33,7 +33,7 @@ Not long after their arrival, the adventurers start to notice things not quite a
 - **Secrets:** Has been told by the dark god that they can help find her mom if she lures more people to the island. 
 - **Personality:** Nervous, serious, observant.
 
-**Name:** Erkan Halvin
+**Name:** [[Erkan Halvin]]
 
 - **Role:** Garrison leader
 - **Motivation:** Prevent “something unnatural” from spreading

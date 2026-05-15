@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/The World/The World.md",
+                "file": "DM Board/Campaign/What Lies Beneath Hollowcove/2. A Missing Mother.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The World"
+              "title": "2. A Missing Mother"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jane shimmerbeard",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Board/DM Board.md",
+                "file": "DM Board/Campaign/What Lies Beneath Hollowcove/What Lies Beneath Hollowcove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Board"
+              "title": "Backlinks for What Lies Beneath Hollowcove"
             }
           },
           {
@@ -242,41 +242,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760c02f93d020608",
+  "active": "baac179a1ce33a30",
   "lastOpenFiles": [
-    "DM Board/DM Board.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/3. Sudden Changes.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/2. A Missing Mother.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/1. Too Good To Refuse.md",
+    "DM Board/The World/Factions/Bandits/Garlak Black-Hands.md",
+    "DM Board/The World/Factions/Families/Shimmerlock Clan.md",
+    "DM Board/The World/Factions/Armies/Untitled.md",
+    "DM Board/The World/Factions/Bandits",
+    "DM Board/The World/Factions/Armies/Umrae (The Faithful).md",
+    "DM Board/The World/Factions/Armies/The Drowned.md",
+    "Notes/Story Notes.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/What Lies Beneath Hollowcove.md",
+    "Untitled.canvas",
     "DM Board/The World/The World.md",
-    "DM Board/Party Configuration.md",
+    "DM Board/The World/Non-Player Characters/Jane Shimmerlock.md",
     "DM Board/The World/Non-Player Characters/Dead Drow.md",
+    "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
+    "Templates/New Group - Family.md",
+    "DM Board/The World/Factions/Families",
+    "DM Board/The World/Factions/Families.md",
+    "Templates/New Group - Government.md",
+    "Templates/New Group - Kingdom.md",
+    "DM Board/DM Board.md",
+    "DM Board/Party Configuration.md",
     "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Taverns/The Mossy Pebble.md",
     "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Taverns/The Drunken Miner.md",
     "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Hollowcove.md",
     "DM Board/The World/Locations/Hollowcove.md",
     "DM Board/The World/Locations/NewSettlement.md",
     "DM Board/The World/Locations/Singing Stone Isle/Hollowcove/Untitled.md",
-    "DM Board/The World/Unique Equipment/Eberhart.md",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/A Missing Mother.md",
-    "DM Board/The World/Non-Player Characters/Thalos Darkbarrel.md",
     "DM Board/The World/Locations/Taverns",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/What Lies Beneath Hollowcove.md",
-    "DM Board/The World/Non-Player Characters/Rosalind Shimmerlock.md",
-    "DM Board/The World/Factions/Mercantile/The Iron Basin.md",
-    "DM Board/The World/Factions/Mercantile/The Golden Sands.md",
-    "DM Board/The World/Non-Player Characters/Kao the Second.md",
-    "DM Board/The World/Factions/Kingdoms/The Holy Empire of Al'Araan.md",
-    "DM Board/The World/Factions/Armies/The Righteous Right Hand of Al'Araan.md",
-    "DM Board/The World/Factions/Armies/Umrae (The Faithful).md",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/Sudden Changes.md",
     "DM Board/The World/Locations/Singing Stone Isle",
     "DM Board/The World/Locations/Singing Stone Isle/Hollowcove",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/Too Good To Refuse.md",
-    "DM Board/Campaign/Campaign.md",
     "DM Board/Campaign/Campaign.base",
     "DM Board/Campaign/What Lies Beneath Hollowcove/Quest",
     "DM Board/Campaign/What Lies Beneath Hollowcove",
     "DM Board/Campaign",
-    "Mechanics/CLI/tables/actions-in-combat-describing-actions-xdmg.md",
-    "Mechanics/CLI/backgrounds/backgrounds.md",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp",
@@ -286,8 +289,6 @@
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
     "DM Board/Combat/Encounters",
-    "DM Board/Combat",
-    "DM Board/Combat/Battle Logs",
     "Mechanics/CLI/bestiary/construct/token/animated-armor-xmm.webp",
     "Mechanics/CLI/bestiary/aberration/img/aberrant-spirit.webp",
     "Visuals/Untitled.canvas"
