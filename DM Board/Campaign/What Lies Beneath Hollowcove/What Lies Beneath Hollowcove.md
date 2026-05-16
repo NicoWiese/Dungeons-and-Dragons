@@ -1,4 +1,4 @@
-# Main Storyline
+	# Main Storyline
 
 ## Overview
 The adventurers receive an offer almost too good to refuse: 20 gold pieces to help protect the [[Shadowshard Mine]] from a few goblin raiders. 
@@ -85,16 +85,25 @@ The ritual succeeds, and the entity’s influence spreads to the mainland.
 ## Storyline Structure
 
 ### Act 1 – Introduction
-- Party arrives on island
-- Meets villagers and garrison
-- Lysa disappears shortly after arrival
+- While in the busy coastal city of [[Brightshore]], the adventurers are approached by a representative of [[The Golden Sands]], an ambitious merchant guild trying to profit from the recent discovery of valuable [[Shadowshard Crystals]] on the remote [[Singing Stone Isles]]. The guild offers surprisingly good pay for what sounds like simple guard work: travel to [[Hollowcove]] and deal with a goblin problem threatening operations at [[Shadowshard Mine]].
+- After arriving by ship, the adventurers are met with friendly faces and a the excited thrum of a prosperous fishing town. People look well fed and happy, and they are welcomed by the locals with open arms. They are quickly directed to the nearest tavern, [[The Drowned Dwarf]], and settle in. The local stories are those of newfound riches, but the people do express some concern about goblin raids originating from deep within the [[Shadowshard Mine]].
+- The blame falls on the [[Gloomclaws]], a semi-prolific goblin clan that has plagued the town of [[Hollowcove]] in the past. Most locals see them as little more than violent pests, though a few miners are concerned about the increased frequency and ferocity of the attacks. 
+- At first the goblins seem like ordinary raiders, but the deeper the adventurers push into the mine, the more frantic the goblins seem to become. Some goblins have crude runes carved into their skin, blackened eyes, and the unmistakable smell of seawater and rotting blood clinging to them.
+- The mine itself feels wrong. Black residue seeps from cracks in the stone, abandoned tunnels are covered in strange markings, and miners swear they hear whispers echoing through the shafts long after the work crews leave for the night.
+- Eventually the adventurers uncover the truth: the [[Gloomclaws]] are not simply attacking the mine for revenge or loot. They are trying to rescue captured clanmates and fight back against whatever has been taking them beneath the mountain.
+- Deep in the oldest parts of [[Shadowshard Mine]], the adventurers discover signs of an ancient corruption tied to the same black blood and runes spreading through [[Hollowcove]]. The infected goblins seem less like willing servants and more like victims twisted by exposure to something buried far below the island.
+- By the end of the quest, the attacks around the mine may stop, but the real danger remains hidden underground. Whether [[The Golden Sands]] abandons the operation or continues digging for [[Shadowshard Crystals]], the island no longer feels untouched — as though something beneath the [[Singing Stone Isles]] has started to wake up.
 
 ### Act 2 – Rising Action
-- Investigating chapel, homes, shoreline
-- Discover hidden symbols and rituals
-- Garrison confrontation or uneasy alliance
-- Lysa may have been taken… or joined willingly
-- Some villagers begin transforming
+- After spending some time on the island, [[Jane Shimmerlock]] suddenly disappears, leaving behind her daughter, [[Rosalind Shimmerlock|Rosie]]. Rosie begs the adventurers to help find her mother, insisting she would never abandon her willingly.
+- Rosie is taken in by [[Thalos Darkbarrel]], owner of [[The Drowned Dwarf]], a tavern where the adventurers quickly notice strange behavior among the villagers. Patrons sit silently for hours, barely eating or drinking, while watching the newcomers with unsettling attention.
+- Though seemingly helpful, [[Thalos Darkbarrel|Thalos]] constantly redirects the adventurers toward other villagers instead of helping himself. He spends most of his time tending the tavern and caring obsessively for a finely crafted dwarven kitchen knife named [[Eberhart]].
+- As the investigation continues, the atmosphere in [[Hollowcove]] grows increasingly hostile. Villagers avoid conversation, windows close as the adventurers pass, and whispers spread that they should stop searching altogether.
+- The adventurers discover strange runes carved onto locked doors around the tavern and eventually uncover a hidden cellar beneath [[The Drowned Dwarf]]. The seals can only be opened using a strange black substance found near the shoreline and throughout the tavern.
+- Inside the cellar, the adventurers find barrels filled with foul mixtures of seawater, dead fish, and black blood — and imprisoned in the center is [[Jane Shimmerlock]]. Her body is covered in carved runes, her mind shattered beyond repair. She can only repeat the words:  _“He is coming.”_
+- When the adventurers attempt to free or kill Jane, [[Thalos Darkbarrel|Thalos]] and several villagers reveal their corruption and attack. Black veins spread beneath their skin as they speak of an ancient being beneath the sea that saved the village from famine in exchange for devotion.
+- Following the confrontation, [[Thalos Darkbarrel|Thalos]] escapes, and the fate of [[Hollowcove]] is left to the adventurers. They may attempt to cleanse the corruption, destroy the tavern, expose the villagers, or leave whatever ancient horror lurks beneath the ocean undisturbed.
+- [[Rosalind Shimmerlock|Rosie]] survives the ordeal, though forever scarred by the loss of her mother and the truth hidden beneath her village. Even afterward, rumors persist that something beneath the tides is still waiting.
 
 ### Act 3 – Climax
 - Ritual in the Drowned Caverns
