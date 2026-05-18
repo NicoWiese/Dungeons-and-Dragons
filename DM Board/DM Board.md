@@ -7,10 +7,6 @@
 | Tyler  | Character Name  |                        |                 |
 | Damean | Character Name  |                        |                 |
 
-[[11-rules-glossary|Rules Glossary]]
-
-[[attack-roll-xphb|Attack Roll]]
-
 > [!abstract]+ General Rules
 > -  [[travel-xphb|Travel]]
 >  - [[conditions|Conditions]]
@@ -34,6 +30,24 @@
 > [!abstract]+ Create New Location
 `button-NewSettlementID`  `button-NewPOIID`  `button-NewTavernID`
 
+# Bestiary Index
+
+| Creature Type |
+|---|
+| [[aberration]] |
+| [[beast]] |
+| [[celestial]] |
+| [[construct]] |
+| [[dragon]] |
+| [[elemental]] |
+| [[fey]] |
+| [[fiend]] |
+| [[giant]] |
+| [[humanoid]] |
+| [[monstrosity]] |
+| [[ooze]] |
+| [[plant]] |
+| [[undead]] |
  -
  -
  -
