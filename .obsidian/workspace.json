@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/DM Board.md",
-                "mode": "preview",
+                "file": "DM Board/The World/Locations/The Singing Stone Isles/Hollowcove/Taverns/The Drowned Dwarf.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DM Board"
+              "title": "The Drowned Dwarf"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/Campaign/What Lies Beneath Hollowcove/What Lies Beneath Hollowcove.md",
+                "file": "DM Board/The Party/Player Characters/Nicole.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "What Lies Beneath Hollowcove"
+              "title": "Nicole"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,55 +256,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52ceba14f9fb4e28",
+  "active": "6119ac6f952d1f30",
   "lastOpenFiles": [
+    "DM Board/The World/Locations/The Singing Stone Isles/Hollowcove/Taverns/The Mossy Pebble.md",
+    "DM Board/The World/Locations/The Singing Stone Isles/Hollowcove/Taverns/The Drowned Dwarf.md",
+    "DM Board/The World/Factions/Armies/The Drowned.md",
+    "DM Board/The World/Factions/Armies/The Righteous Right Hand of Al'Araan.md",
+    "DM Board/The World/Factions/Armies/Untitled.md",
     "DM Board/DM Board.md",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/Ghostly Sirens.md",
+    "DM Board/The World/Locations/The Singing Stone Isles/Hollowcove/Hollowcove.md",
+    "DM Board/The World/Locations/The Singing Stone Isles/Greywing Point/Taverns/The Dragon's Maw.md",
     "DM Board/Campaign/What Lies Beneath Hollowcove/What Lies Beneath Hollowcove.md",
-    "Shimmering Reef.md",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/Cow Rustlers.md",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/Missing Shipment.md",
+    "DM Board/The World/Locations/The Singing Stone Isles/Greywing Point/Taverns",
+    "DM Board/The World/Locations/The Singing Stone Isles/Greywing Point",
+    "DM Board/Combat/Battle Logs/1779220045271 - Combat.md",
     "DM Board/Campaign/What Lies Beneath Hollowcove/2. A Missing Mother.md",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/1. Too Good To Refuse.md",
     "DM Board/The World/The World.md",
-    "Mechanics/CLI/bestiary/undead/undead.md",
-    "Mechanics/CLI/bestiary/plant/plant.md",
-    "Mechanics/CLI/bestiary/ooze/ooze.md",
-    "Mechanics/CLI/bestiary/npc/npc.md",
+    "Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md",
+    "DM Board/The World/Non-Player Characters/Erkan Halvin.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Ghostly Sirens.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Missing Shipment.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Mushroom Mixup.md",
+    "DM Board/Campaign/What Lies Beneath Hollowcove/Cow Rustlers.md",
+    "Mechanics/CLI/backgrounds/backgrounds.md",
+    "Mechanics/CLI/bestiary/aberration/chuul-xmm.md",
+    "Mechanics/CLI/bastions/meditation-chamber.md",
+    "Spencer.md",
+    "DM Board/The Party/Player Characters/Nicole.md",
+    "Piet.md",
+    "DM Board/The Party/Player Characters/Character 2.md",
+    "DM Board/The World/Locations/Points of Interest",
+    "DM Board/The World/Locations/Singing Stone Isle/Points of Interest 1",
     "Mechanics/CLI/bestiary/npc/img/venomfang.webp",
     "Mechanics/CLI/bestiary/npc/img/nezznar-the-black-spider.webp",
     "Mechanics/CLI/bestiary/npc/img/mormesk-the-wraith.webp",
-    "Mechanics/CLI/bestiary/monstrosity/monstrosity.md",
-    "Mechanics/CLI/bestiary/miscellaneous/miscellaneous.md",
-    "Mechanics/CLI/bestiary/legendary-group/aboleth.md",
-    "Mechanics/CLI/bestiary/humanoid/humanoid.md",
-    "Mechanics/CLI/bestiary/giant/giant.md",
     "Mechanics/CLI/bestiary/fiend/token/arcanaloth-xmm.webp",
-    "Mechanics/CLI/bestiary/fey/fey.md",
     "Mechanics/CLI/bestiary/elemental/img/salamander-fire-snake.webp",
-    "Mechanics/CLI/bestiary/aberration/aberration.md",
-    "Mechanics/CLI/backgrounds/backgrounds.md",
-    "Mechanics/CLI/bestiary/aberration/cloaker-xmm.md",
-    "Mechanics/CLI/bestiary/beast/beast.md",
-    "DM Board/The World/Non-Player Characters/Sildra Kodrith.md",
-    "DM Board/The World/Non-Player Characters/Old Bill.md",
-    "DM Board/The World/Non-Player Characters/Li Xiaoshi.md",
     "DM Board/The World/Factions/Bandits",
     "Untitled.canvas",
     "DM Board/The World/Factions/Families",
     "DM Board/The World/Locations/Taverns",
-    "DM Board/The World/Locations/Singing Stone Isle",
-    "DM Board/The World/Locations/Singing Stone Isle/Hollowcove",
+    "DM Board/The World/Locations/The Singing Stone Isles",
+    "DM Board/The World/Locations/The Singing Stone Isles/Hollowcove",
     "DM Board/Campaign/Campaign.base",
-    "DM Board/Campaign/What Lies Beneath Hollowcove/Quest",
-    "DM Board/Campaign/What Lies Beneath Hollowcove",
-    "DM Board/Campaign",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp",
     "Mechanics/CLI/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp",
-    "DM Board/Combat/Encounters",
     "Visuals/Untitled.canvas"
   ]
 }

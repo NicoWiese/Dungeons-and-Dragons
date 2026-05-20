@@ -3,21 +3,32 @@ NoteIcon: Building
 Tags: Category/Locations
 type: Location
 subtype: Tavern
-name: New Tavern
-owner: Unknown
-staff: []
+name: The Drowned Dwarf
+owner: Thalos Darkbarrel
+staff:
+  - Rosalind Shimmerlock
+  - Jane Shimmerlock
+  - Thalos Darkbarrel
+  - Chiswell
 faction: []
-services: []
-menu: []
-rooms: 0
-price-range: Moderate
+services:
+  - Dice Gambling
+menu:
+  - Seafood
+  - Ale
+  - Rum
+rooms: 10
+price-range: Expensive
 reputation: Neutral
 rumors: []
 notable-npcs: []
 events: []
 region:
-  - This area
+  - The Singing Stone Isles
 ---
+
+
+
 > [!infobox]
 > # `=this.file.name`
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
@@ -54,9 +65,9 @@ General description of the tavern, its atmosphere, and what makes it unique.
 - Lighting, smells, sounds
 
 ## Owner & Staff
-- Owner background/personality
-- Bartenders, servers, guards
-- Hidden agendas (if any)
+- [[Thalos Darkbarrel]] - Owner and barkeep. 
+- [[Jane Shimmerlock|Jane]] and [[Rosalind Shimmerlock]] - Barmaids
+- [[Chiswell]] - Cook
 
 ## Services & Amenities
 - Food and drink offerings

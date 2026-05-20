@@ -6,7 +6,6 @@
 | Mogau  | Character Name  |                        |                 |
 | Tyler  | Character Name  |                        |                 |
 | Damean | Character Name  |                        |                 |
-
 > [!abstract]+ General Rules
 > -  [[travel-xphb|Travel]]
 >  - [[conditions|Conditions]]

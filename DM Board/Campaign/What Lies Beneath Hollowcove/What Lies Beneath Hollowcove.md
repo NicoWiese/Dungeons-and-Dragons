@@ -29,40 +29,40 @@ Not long after their arrival, the adventurers start to notice things not quite a
 
 - **Role:** Important NPC
 - **Quest Giver** : Yes
-- **Motivation:** Needs help finding her mom. 
+- **Motivation:** Wants to help her mom, maybe start her own tavern one day. Needs help finding her mom. 
 - **Secrets:** Has been told by the dark god that they can help find her mom if she lures more people to the island. 
 - **Personality:** Nervous, serious, observant.
 
 **Name:** [[Erkan Halvin]]
 
 - **Role:** Garrison leader
-- **Motivation:** Prevent “something unnatural” from spreading
+- **Motivation:** Protect the mine, then eventually, defeat the cultists. 
 - **Secrets:** Has seen a partial transformation firsthand
 - **Personality:** Stern, exhausted, suspicious
 
 **Name:** [[Thalos Darkbarrel]]
 
 - **Role:** Cult leader posing as village tavernkeeper
-- **Motivation:** Complete a summoning ritual
+- **Motivation:** Perform ritual sacrifices to the Entity in order to keep the village prosperous. 
 - **Secrets:** Already partially transformed
-### Locations
-**Name:** Hollowcove Village
 
-- **Description:** Quiet fishing village with too-perfect routines
+**Name:** [[Balrom Stormbrow II]]
+
+- **Role:** Second in command of the cult.
+- **Motivation:** Win the Entity's favour.
+- **Secrets:** He's the one who started sacrificing villagers, and ended up convincing [[Thalos Darkbarrel|Thalos]] to start doing the same. 
+### Locations
+**Name:** [[Hollowcove]]
+
+- **Description:** Bustling fishing village harbouring a dark secret. 
 - **Notable Features:** Empty streets at night, strong smell of salt and rot
 - **Encounters:** Villagers subtly watching the party
 
-**Name:** The Singing Stones
+**Name:** [[Walengraft]]
 
 - **Description:** Converted shrine near the cliffs
 - **Notable Features:** Waterlogged altar, strange carvings
 - **Encounters:** Secret meetings, hidden passage
-
-**Name:** The Shivertide Caverns
-
-- **Description:** Tidal caves beneath the island
-- **Notable Features:** Bioluminescent growths, deep chanting echoes
-- **Encounters:** Ritual site, aquatic horrors
 
 ### Important Items / MacGuffins
 **Name:** The Pearl of Calling
@@ -85,14 +85,16 @@ The ritual succeeds, and the entity’s influence spreads to the mainland.
 ## Storyline Structure
 
 ### Act 1 – Introduction
-- While in the busy coastal city of [[Brightshore]], the adventurers are approached by a representative of [[The Golden Sands]], an ambitious merchant guild trying to profit from the recent discovery of valuable [[Shadowshard Crystals]] on the remote [[Singing Stone Isles]]. The guild offers surprisingly good pay for what sounds like simple guard work: travel to [[Hollowcove]] and deal with a goblin problem threatening operations at [[Shadowshard Mine]].
-- After arriving by ship, the adventurers are met with friendly faces and a the excited thrum of a prosperous fishing town. The town is busy preparing for their yearly [[Festival of the Stones]]. People look well fed and happy, and they are welcomed by the locals with open arms. They are quickly directed to the nearest tavern, [[The Drowned Dwarf]], and settle in. The local stories are those of newfound riches, but the people do express some concern about goblin raids originating from deep within the [[Shadowshard Mine]].
+- While in the busy coastal city of [[Brightshore]], the adventurers are approached by a representative of [[The Golden Sands]], an ambitious merchant guild trying to profit from the recent discovery of valuable [[Shadowshard Crystals]] on the remote [[Singing Stones Isles]]. The guild offers surprisingly good pay for what sounds like simple guard work: travel to [[Hollowcove]] and deal with a goblin problem threatening operations at [[Shadowshard Mine]].
+
+- After arriving by ship, the adventurers are met by friendly faces and a the excited thrum of a prosperous fishing town. The town is busy preparing for their yearly [[Festival of the Stones]]. People look well fed and happy, and they are welcomed by the locals with open arms. They are quickly directed by town mayor, [[Balrom Stormbrow II]], to the nearest tavern, [[The Drowned Dwarf]]. The local stories are those of newfound riches, but the people do express some concern about goblin raids originating from deep within the [[Shadowshard Mine]].
 - The adventurers can chat to various locals to pick up gossip and quests, like: 
 	- [[Quagnim Booknose]] - He's a visiting scholar on the search for a rare mushroom. See [[Mushroom Mixup]] for quest details. 
 	- [[Yannik Hardgust]] - A local merchant who's latest shipment went missing. See [[Missing Shipment]] for quest details. 
 	- [[Li Xiaoshi]] - A wizard who lent a mysterious archaeologist some books, but haven't gotten them back. See [[Daniel's Character]] for quest details. 
 	- [[Old Bill]] - A local cow farmer who's cow disappeared in front of his eyes. See [[Cow Rustlers]] for quest details. 
 	- [[Sildra Kodrith]] - Fisherwoman based at the [[Shimmering Reef]] says that a ghost has been luring her fisherman into the ocean when they try to fish at night. See [[Ghostly Sirens]] for quest details. 
+	- [[Marria Briarhand]] - Local potion merchant who asks the adventurers to kill an owlbear preventing her from accessing a nearby grove. See [[The Corrupted Grove]] for quest details. 
 
 ### Act 2 – Rising Action
 - The blame falls on the [[Gloomclaws]], a goblin clan that has plagued the town of [[Hollowcove]] in the past. Most locals see them as little more than violent pests, though a few miners are concerned about the increased frequency and ferocity of the attacks. 
@@ -102,18 +104,21 @@ The ritual succeeds, and the entity’s influence spreads to the mainland.
 - If the cave is entered at night, they will notice the crystal veins faintly pulsing with a sickly green hue, and are shortly after attacked by corrupted goblins. 
 - They will then eventually uncover the origin of the raids: and old dungeon set in the remnants of a fortress used by the island's first inhabitants hundreds of years ago. In the center of the fortress, the adventurers discover a ritual site and a inactive portal hewn into a large black tooth. The tooth is marbled with the same smoky crystal found in [[Shadowshard Mine]], and it seems as if all the veins are feeding into it. 
 - Throughout the oldest parts of [[Walengraft]], the adventurers discover signs of an ancient corruption tied to the same black blood and runes spreading through [[Hollowcove]]. Scattered throughout [[Walengraft]] they come across goblins that appear to be dead, but when approached awaken and attack. 
-- By the end of the quest, the attacks around the mine may stop, but the real danger remains hidden underground. Whether [[The Golden Sands]] abandons the operation or continues digging for [[Shadowshard Crystals]], the island no longer feels untouched — as though something beneath the [[Singing Stone Isles]] has started to wake up.
-
-### Act 3 – Climax
+- By the end of the quest, the attacks around the mine may stop, but the real danger remains hidden underground. Whether [[The Golden Sands]] abandons the operation or continues digging for [[Shadowshard Crystals]], the island no longer feels untouched — as though something beneath the [[Singing Stones Isles]] has started to wake up.
 - After spending some time on the island, [[Jane Shimmerlock]] suddenly disappears, leaving behind her daughter, [[Rosalind Shimmerlock|Rosie]]. Rosie begs the adventurers to help find her mother, insisting she would never abandon her willingly.
 - Rosie is taken in by [[Thalos Darkbarrel]], owner of [[The Drowned Dwarf]], a tavern where the adventurers quickly notice strange behaviour among the villagers. Patrons sit silently for hours, barely eating or drinking, while watching the newcomers with unsettling attention.
 - Though seemingly helpful, [[Thalos Darkbarrel|Thalos]] constantly redirects the adventurers toward other villagers instead of helping himself. He spends most of his time tending the tavern and caring obsessively for a finely crafted dwarven kitchen knife named [[Eberhart]].
 - As the investigation continues, the atmosphere in [[Hollowcove]] grows increasingly hostile. Villagers avoid conversation, windows close as the adventurers pass, and whispers spread that they should stop searching altogether.
-- The adventurers discover strange runes carved onto locked doors around the tavern and eventually uncover a hidden cellar beneath [[The Drowned Dwarf]]. The seals can only be opened using a strange black substance found near the shoreline and throughout the tavern.
+- More and more villagers go missing, some leaving the town willingly, others disappearing outright. 
+- The adventurers discover strange runes carved onto the locked cellar door in the tavern and eventually uncover a hidden cellar beneath [[The Drowned Dwarf]]. The seal can only be opened by offering your blood to it. 
 - Inside the cellar, the adventurers find barrels filled with foul mixtures of seawater, dead fish, and black blood — and imprisoned in the center is [[Jane Shimmerlock]]. Her body is covered in carved runes, her mind shattered beyond repair. She can only repeat the words:  _“He is coming.”_
-- When the adventurers attempt to free or kill Jane, [[Thalos Darkbarrel|Thalos]] and several villagers reveal their corruption and attack. Black veins spread beneath their skin as they speak of an ancient being beneath the sea that saved the village from famine in exchange for devotion.
-- Following the confrontation, [[Thalos Darkbarrel|Thalos]] escapes, and the fate of [[Hollowcove]] is left to the adventurers. They may attempt to cleanse the corruption, destroy the tavern, expose the villagers, or leave whatever ancient horror lurks beneath the ocean undisturbed.
-- [[Rosalind Shimmerlock|Rosie]] survives the ordeal, though forever scarred by the loss of her mother and the truth hidden beneath her village. Even afterward, rumours persist that something beneath the tides is still waiting.
+- When the adventurers attempt to free or kill Jane, [[Thalos Darkbarrel|Thalos]] appears at the entrance of the cellar, and sends several villagers to them.
+- After defeating the mob , the adventurers hear [[Rosalind Shimmerlock|Rosie]] scream for help from above, and when chasing to save her, will find [[Thalos Darkbarrel|Thalos]] and another corrupted villager holding her hostage. The adventurers can save her by defeating the pair. [[Thalos Darkbarrel|Thalos]] will become furious, and casts a massive spell that levels the tavern. His eyes will clear, and he seems to have a moment of lucidity, before fighting with something inside himself. 
+- In a moment of lucidity he'll apologise for everything, and teleports the adventurers to a nearby hill overlooking the town and ocean. Here they will see an enormous ring of ocean having been carved out by magic, separating the island from the rest of the world. They will also see storm clouds approaching the island from all sides, and the earth turning black and dead spreading from the village. 
+- [[Rosalind Shimmerlock|Rosie]] survives the ordeal, though forever scarred by the loss of her mother and the truth hidden beneath her village.
+
+### Act 3 – Climax
+- The cult starts officially establishing themselves in [[Hollowcove]], and the people left on the island are forced to defend themselves against the fanatics. The adventurers can flee to the town of [[]]
 
 ### Act 4 – Resolution
 - Island either saved, corrupted, or lost

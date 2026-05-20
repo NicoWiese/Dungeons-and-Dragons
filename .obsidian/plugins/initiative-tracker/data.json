@@ -130,7 +130,7 @@
     "creatures": [
       {
         "name": "Mogau",
-        "initiative": 15,
+        "initiative": 19,
         "static": false,
         "modifier": 2,
         "hp": 14,
@@ -139,20 +139,20 @@
         "currentAC": "12",
         "note": "Mogau",
         "path": "DM Board/The Party/Player Characters/Mogau.md",
-        "id": "ID_b95babe9586b",
+        "id": "ID_e81a0b993899",
         "currentHP": 14,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Nicole",
-        "initiative": 15,
+        "initiative": 19,
         "static": false,
         "modifier": 4,
         "hp": 65,
@@ -161,7 +161,7 @@
         "currentAC": 20,
         "note": "Nicole",
         "path": "DM Board/The Party/Player Characters/Nicole.md",
-        "id": "ID_fa8ba8089beb",
+        "id": "ID_fb1b88ebd96a",
         "currentHP": 65,
         "tempHP": 0,
         "status": [],
@@ -173,10 +173,10 @@
         "friendly": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
-    "round": 1,
-    "logFile": "DM Board/Battle Log/1778408670472 - Combat.md",
+    "round": 2,
+    "logFile": "DM Board/Combat/Battle Logs/1779220045271 - Combat.md",
     "rollHP": false
   },
   "condense": false,
