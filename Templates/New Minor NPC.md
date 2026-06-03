@@ -1,15 +1,26 @@
 ---
-AssociatedGroup:
-Gender: Female
-Race: Goliath
-Age: "47"
-Occupation: Fisherman
-Disposition: Gruff
-Location:
+AssociatedGroup: 
+Gender: 
+Race: 
+Age: 
+Occupation: 
+Disposition: 
+Location: 
 NoteIcon: npc
 ---
 
+<% await tp.file.move("DM Board/The World/Non-Player Characters/" + tp.file.title) %>
 
+<%*
+const hasTitle = !tp.file.title.startsWith("NewMinorNPC");
+let title;
+if (!hasTitle) {
+    title = await tp.system.prompt("Enter Minor NPC Name");
+    await tp.file.rename(title);
+} else {
+    title = tp.file.title;
+}
+_%>
 
 > [!infobox]
 > # `=this.file.name`

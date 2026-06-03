@@ -1,13 +1,16 @@
 ---
-AssociatedGroup: 
-Gender: 
-Race: 
-Age: 
-Class: 
-Alignment: 
-Character-Role: 
-Location: 
+AssociatedGroup: Townsfolk of Hollowcove
+Gender: Female
+Race: Dwarf
+Age: "12"
+Class: Fighter
+Alignment: Lawful Neutral
+Character-Role: Quest Giver
+Location: Hollowcove
 NoteIcon: npc
+aliases:
+  - Rosalind
+  - Rosie
 ---
 
 
@@ -34,10 +37,6 @@ NoteIcon: npc
 
 # `=this.file.name`
 ## Profile
-
-<% tp.file.cursor() %>
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
-
 > [!info] Statblock
 > ```statblock
 > name: Individual

@@ -46,8 +46,8 @@ NoteIcon: npc
 > [!info] Statblock
 > 
 > ```statblock
-> name: Individual
-> monster: Warrior Veteran
+> name: Warrior Veteran
+> monster: Warrior Veteran (XMM)
 > columns: 1
 > ```
 

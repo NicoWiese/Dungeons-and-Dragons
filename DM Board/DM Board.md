@@ -1,5 +1,5 @@
 
-| Player | Character       | [[Passive Perception]] | [[armor-class-xphb]] |
+| Player | Character       | [[Passive Perception]] | [[Armor Class]] |
 | ------ | --------------- | ---------------------- | --------------- |
 | Nicole | [[Character 1]] | 12                     | 9               |
 | Daniel | Character Name  |                        |                 |
@@ -16,7 +16,6 @@
 > [!abstract]+ Rests
 > - [[short-rest-xphb|Short Rest]]
 > - [[long-rest-xphb|Long Rest]]
-> 
 
 > [!abstract]+ Spellcasting 
 >  - [[spells|Spells]]
@@ -24,10 +23,10 @@
 
 
 > [!abstract]+ Create New
-> `button-NewNPCID` `button-NewEquipmentID` `button-NewReligionID`
+> `button-NewNPCID` `button-NewMinorNPCID` `button-NewEquipmentID` `button-NewReligionID`
 
 > [!abstract]+ Create New Location
-`button-NewSettlementID`  `button-NewPOIID`  `button-NewTavernID`
+`button-NewSettlementID`  `button-NewPOIID`  `button-NewTavernID` `button-NewShopID`
 
 # Bestiary Index
 
@@ -108,6 +107,14 @@ templater true
 ^button-NewNPCID
 
 ```button
+name New Minor NPC
+type note(NewMinorNPC, split) template
+action New Minor NPC
+templater true
+```
+^button-NewMinorNPCID
+
+```button
 name New Settlement
 type note(NewSettlement, split) template
 action New Settlement
@@ -153,3 +160,12 @@ type note(NewPlayer, split) template
 action New Player
 templater true
 ```
+^button-NewPlayerID
+
+```button
+name New Shop
+type note(NewShop, split) template
+action New Shop
+templater true
+```
+^button-NewShopID

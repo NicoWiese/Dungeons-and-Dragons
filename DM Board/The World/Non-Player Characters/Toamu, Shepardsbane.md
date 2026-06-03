@@ -1,12 +1,15 @@
 ---
-Gender:
-Race: Gnome
-Age:
-Class:
-Alignment:
-Character-Role:
-Location:
+
+## AssociatedGroup:  
+Gender:  
+Race:  
+Age:  
+Class:  
+Alignment:  
+Character-Role:  
+Location:  
 NoteIcon: npc
+
 ---
 
 
@@ -44,12 +47,12 @@ NoteIcon: npc
 > 
 > ```statblock
 > name: Individual
-> monster: Commoner (XMM)
+> monster: Blue Dragon Wyrmling
 > columns: 1
 > ```
 
 ```encounter-table
 name: Individual
 creatures:
- - 1: Commoner
+ - 1: Blue Dragon Wyrmling
 ```

@@ -47,7 +47,7 @@ NoteIcon: npc
 > 
 > ```statblock
 > name: Individual
-> monster: Commoner
+> monster: Commoner (XMM)
 > columns: 1
 > ```
 

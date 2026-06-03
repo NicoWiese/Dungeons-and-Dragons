@@ -560,7 +560,7 @@
     "patch": 3
   },
   "paths": [
-    "Mechanics"
+    "Mechanics/CLI/bestiary"
   ],
   "autoParse": true,
   "disableSRD": false,

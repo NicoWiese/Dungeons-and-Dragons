@@ -1,12 +1,14 @@
 ---
 Gender:
-Race: Gnome
+Race:
 Age:
 Class:
 Alignment:
 Character-Role:
 Location:
 NoteIcon: npc
+aliases:
+  - Jane
 ---
 
 

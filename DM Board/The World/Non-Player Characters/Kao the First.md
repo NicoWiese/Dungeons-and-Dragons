@@ -38,7 +38,7 @@ NoteIcon: npc
 > [!info] Statblock
 > ```statblock
 > name: Individual
-> monster: Zombie
+> monster: Skeleton (XMM)
 > columns: 1
 > ```
 
