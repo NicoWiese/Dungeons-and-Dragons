@@ -6,10 +6,10 @@ ac: "10"
 modifier: "2"
 ---
 
-# Nicole
+# Damean
 
 > [!infobox]
-> ## Nicole
+> ## Damean
 > Level: 1  
 > HP: 10 | AC: 10 | Speed: 30  
 > Initiative: +0  

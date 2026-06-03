@@ -6,10 +6,10 @@ ac: "10"
 modifier: "2"
 ---
 
-# Nicole
+# Mishka
 
 > [!infobox]
-> ## Nicole
+> ## Mishka
 > Level: 1  
 > HP: 10 | AC: 10 | Speed: 30  
 > Initiative: +0  

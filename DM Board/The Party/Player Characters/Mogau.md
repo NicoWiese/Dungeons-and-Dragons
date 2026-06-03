@@ -1,5 +1,9 @@
 ---
 type: Character
+level: "1"
+hp: "10"
+ac: "10"
+modifier: "2"
 ---
 
 # Mogau
@@ -7,7 +11,7 @@ type: Character
 > [!infobox]
 > ## Mogau
 > Level: 1  
-> HP: 14 | AC: 12 | Speed: 30  
+> HP: 10 | AC: 10 | Speed: 30  
 > Initiative: +0  
 > Passive Perception: 10
 
@@ -25,8 +29,8 @@ const DATA = {
   int: 10,
   wis: 10,
   cha: 10,
-  hp: 14,
-  ac: 12,
+  hp: 10,
+  ac: 10,
   speed: "30",
 
   prof_str: false,
@@ -75,8 +79,8 @@ const DATA = {
   int: 10,
   wis: 10,
   cha: 10,
-  hp: 14,
-  ac: 12,
+  hp: 10,
+  ac: 10,
   speed: "30",
 
   prof_str: false,

@@ -4,7 +4,7 @@ Tags: Category/Locations
 type: Location
 subtype: Shop
 name: New Shop
-owner: Unknown
+owner: Sylivan Goldenglove
 staff:
   - "[[Sylivan Goldenglove]]"
 faction:

@@ -59,7 +59,7 @@
 - Upon defeating [[Toamu, Shepardsbane]], the adventurers can take [[Friya]] back to [[Old Bill]]. 
 
 ## Background (DM Only)
-[[Toamu, Shepardsbane]] is a [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]] that fled her desert home and took up on The [[Singing Stones Isles]], where she started preying on local cattle and sheep farmers. 
+[[Toamu, Shepardsbane]] is a [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]] that fled her desert home and took up on The [[Songstone Isle]], where she started preying on local cattle and sheep farmers. 
 
 ## Encounters
 - Combat encounters (with difficulty notes)

@@ -6,12 +6,12 @@ ac: "10"
 modifier: "2"
 ---
 
-# Nicole
+# Daniel
 
 > [!infobox]
-> ## Nicole
+> ## Daniel
 > Level: 1  
-> HP: 10 | AC: 10 | Speed: 30  
+> HP: 10 | AC: 10 | Speed: 10  
 > Initiative: +0  
 > Passive Perception: 10
 
@@ -31,7 +31,7 @@ const DATA = {
   cha: 10,
   hp: 10,
   ac: 10,
-  speed: "30",
+  speed: "10",
 
   prof_str: false,
   prof_dex: false,
@@ -81,7 +81,7 @@ const DATA = {
   cha: 10,
   hp: 10,
   ac: 10,
-  speed: "30",
+  speed: "10",
 
   prof_str: false,
   prof_dex: false,

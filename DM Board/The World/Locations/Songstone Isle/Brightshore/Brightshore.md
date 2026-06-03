@@ -77,7 +77,7 @@ A city of white stone and a kaleidoscope of colourful flags that stands proudly 
 
 The city is structured around fishing, trade, and the production of a local speciality: Glintscale Ale. It is situated right next to a vast and colourful natural wonder known as the [[Shimmering Reef]], where a  unique species of fish allows locals to brew their famous ale. 
 
-[[Brightshore]] also looks out directly onto [[The Singing Stones]], enormous ancient bells that toll when the tides change, and mysteriously appear to sing to herald in a Glintscale Run during their migration. Pockmarked throughout the bay however are also natural caves of various sizes that peer into inky depths below the sandy bottom. 
+[[Brightshore]] also looks out directly onto [[The Singing Stones]], enormous ancient chime-like stones that sing at tide's change. Pockmarked throughout the bay however are also natural caves of various sizes that peer into inky depths below the sandy bottom. 
 
 ### Placeholder Map
 ![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
@@ -104,7 +104,7 @@ Placeholder
 [[The Kraken's Maw]]
 [[The Broken Tooth]]
 [[The Tree of a Thousand Colours]]
-[[Mermaid's Walk]]
+[[Songstone Waterfront]]
 ## Valuables
 Placeholder
 
