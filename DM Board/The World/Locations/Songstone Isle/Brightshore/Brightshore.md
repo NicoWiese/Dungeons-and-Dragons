@@ -109,7 +109,7 @@ Placeholder
 Placeholder
 
 ## Internal Relationships
-Placeholder
+[[The Three Seats of Brightshore]]
 
 ## Outward Relationships
 Placeholder

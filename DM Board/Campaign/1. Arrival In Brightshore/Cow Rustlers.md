@@ -42,7 +42,7 @@
 ## Central Conflict
 - [[Old Bill]]'s Sea Cows are being stolen. They were stolen by a dragon, but he installed a ballista to fend her off. Not long after, his cows started disappearing. He's a non-commercial farm, so the Cows' disappearance is bankrupting him, and nobody is willing to help since he can't pay. [[Friya]], his most prized Sea Cow, not to mention his last, was recently stolen. 
 - The main antagonists are [[Crookedtooth]]and [[Toamu, Shepardsbane]].
-- If the adventurers don't do anything, Old Bill will keep coming to [[The Pearl of Brightshore]] and drinking his sorrows away. Eventually he'll stop coming, and the adventurers an find him at [[Weathertop Farm]], dead, having killed himself. 
+- If the adventurers don't do anything, Old Bill will keep coming to [[The Pearl]] and drinking his sorrows away. Eventually he'll stop coming, and the adventurers an find him at [[Weathertop Farm]], dead, having killed himself. 
 
 ## Storyline Structure
 

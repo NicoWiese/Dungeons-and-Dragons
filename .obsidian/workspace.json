@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Board/The World/The World.md",
+                "file": "DM Board/The World/Locations/Songstone Isle/Brightshore/Taverns/The Pearl.md",
                 "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Pearl"
+            }
+          },
+          {
+            "id": "c3427951ac4454ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Board/The World/Non-Player Characters/Non-Player Characters.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The World"
+              "title": "Non-Player Characters"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Board/The World/The World.md",
+                "file": "DM Board/The World/World Flavour/Rainbowtide Festival Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The World"
+              "title": "Outgoing links from Rainbowtide Festival Games"
             }
           },
           {
@@ -152,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Board/The World/The World.md",
+                "file": "DM Board/The World/Non-Player Characters/Non-Player Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The World"
+              "title": "Backlinks for Non-Player Characters"
             }
           },
           {
@@ -255,32 +270,33 @@
   },
   "active": "6119ac6f952d1f30",
   "lastOpenFiles": [
-    "DM Board/Combat/Encounters/Level 1.md",
-    "DM Board/Combat/Battle Logs/1779220045271 - Combat.md",
-    "DM Board/The World/The World.md",
-    "DM Board/The World/Locations/Songstone Isle/Songstone Isle.md",
-    "DM Board/The World/Locations/Songstone Isle/Brightshore/Brightshore.md",
-    "DM Board/The World/Locations/Songstone Isle/Hollowcove/Hollowcove.md",
-    "DM Board/The World/Non-Player Characters/Non-Player Characters.md",
-    "DM Board/The World/Locations/Songstone Isle/Points of Interest/The Singing Stones.md",
-    "DM Board/The World/Locations/Songstone Isle/Points of Interest/Shimmering Reef.md",
-    "DM Board/Campaign/2. What Lies Beneath Songstone Isle/2. What Lies Beneath Songstone Isle.md",
+    "DM Board/The World/World Flavour/Rainbowtide Festival Games.md",
+    "DM Board/The World/World Flavour/The Rainbow Tide.md",
     "DM Board/Campaign/1. Arrival In Brightshore/1. Arrival In Brightshore.md",
-    "DM Board/The World/Non-Player Characters/Old Bill.md",
-    "Singing Stone Isles.md",
-    "DM Board/Campaign/1. Arrival In Brightshore/Missing Shipment.md",
+    "DM Board/Campaign/1. Arrival In Brightshore/Festival Incident.md",
+    "DM Board/The World/Locations/Songstone Isle/Brightshore/Brightshore.md",
+    "DM Board/The World/World Flavour/Shadowshard Crystal.md",
+    "DM Board/The World/Non-Player Characters/Non-Player Characters.md",
+    "DM Board/The World/Non-Player Characters/Erkan Halvin.md",
+    "DM Board/The World/Locations/Songstone Isle/Points of Interest/Shimmering Reef.md",
+    "DM Board/Party Configuration.md",
+    "DM Board/The World/The World.md",
+    "DM Board/Campaign/2. What Lies Beneath Songstone Isle/2. What Lies Beneath Songstone Isle.md",
+    "DM Board/The World/Non-Player Characters/Rosie Shimmerbeard.md",
     "DM Board/Campaign/1. Arrival In Brightshore/Ghostly Sirens.md",
-    "DM Board/Campaign/1. Arrival In Brightshore/Cow Rustlers.md",
-    "DM Board/The World/Unique Equipment/Eberhart.md",
-    "DM Board/The Party/Player Characters/Damean.md",
-    "DM Board/The Party/Player Characters/Daniel.md",
-    "DM Board/The Party/Player Characters/Mishka.md",
-    "DM Board/The Party/Player Characters/Mogau.md",
-    "DM Board/The Party/Player Characters/Nicole.md",
-    "DM Board/The Party/Player Characters/Tyler.md",
+    "DM Board/The World/Non-Player Characters/Farwen Evergreen.md",
+    "DM Board/The World/Locations/Songstone Isle/Brightshore/Taverns/The Pearl.md",
     "DM Board/DM Board.md",
-    "Templates/New Player.md",
-    "DM Board/The Party/Player Characters/Character 1.md",
+    "DM Board/The World/Factions/Mercantile/The Golden Sands.md",
+    "DM Board/The World/Locations/Songstone Isle/Songstone Isle.md",
+    "DM Board/The World/Locations/Songstone Isle/Hollowcove/Hollowcove.md",
+    "DM Board/The World/Locations/Songstone Isle/Hollowcove/Taverns/The Drowned Dwarf.md",
+    "DM Board/The World/Non-Player Characters/Sildra Kodrith.md",
+    "DM Board/The World/Locations/Songstone Isle/Brightshore/Taverns/Blackwater Inn.md",
+    "DM Board/The World/Locations/Songstone Isle/Brightshore/Taverns/The Broken Anchor.md",
+    "DM Board/The World/Locations/Songstone Isle/Brightshore/Taverns/The Copper Kettle.md",
+    "DM Board/The World/Locations/Songstone Isle/Brightshore/Shops/Tooth and Claw.md",
+    "DM Board/The World/Locations/Shops",
     "DM Board/The World/World Flavour",
     "Mechanics/CLI/bestiary/humanoid/token/warrior-veteran-xmm.webp",
     "DM Board/Campaign/1. Arrival In Brightshore",
@@ -291,7 +307,6 @@
     "DM Board/The World/Locations/Songstone Isle/Brightshore",
     "DM Board/The World/Locations/Songstone Isle/Greywing Point/Taverns",
     "DM Board/The World/Locations/Songstone Isle/Greywing Point",
-    "DM Board/The World/Locations/Points of Interest",
     "Mechanics/CLI/bestiary/npc/img/venomfang.webp",
     "Mechanics/CLI/bestiary/npc/img/nezznar-the-black-spider.webp",
     "Mechanics/CLI/bestiary/npc/img/mormesk-the-wraith.webp",

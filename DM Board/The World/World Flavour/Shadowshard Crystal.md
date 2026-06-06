@@ -1,0 +1,1 @@
+It was originally found by a dwarven mining expedition sent to the area specifically by [[Farwen Evergreen]]. The entire party was found dead shortly after the discovery, each having died seemingly at random and at different times. 

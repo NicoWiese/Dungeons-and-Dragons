@@ -1,0 +1,1 @@
+You have a cursed coin that you got from "Insert Backstory Here", that compels you to flip it in certain scenarios that befit "Insert Backstory Here".

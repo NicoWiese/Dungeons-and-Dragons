@@ -24,7 +24,7 @@ Though respected for its efficiency and professionalism, the guild has earned a 
 
 Founded by a coalition of ambitious merchants, the Golden Sands rose to prominence by systematically absorbing competitors, securing exclusive trade agreements, and establishing monopolies over valuable resources.
 
-Its latest venture is the exploitation of the newly discovered Shadowshard Crystal deposits on the Singing Stone Isles. Despite growing reports of disappearances, strange occurrences, and unrest among the local population, the guild continues to expand operations in pursuit of greater profits.
+Its latest venture is the exploitation of the newly discovered [[Shadowshard Crystal]] deposits on the Singing Stone Isles. Despite growing reports of disappearances, strange occurrences, and unrest among the local population, the guild continues to expand operations in pursuit of greater profits.
 
 ## Philosophy
 
@@ -86,7 +86,7 @@ Its leadership sees the Singing Stone Isles as the next step in the guild's expa
     
 - Maintains a powerful merchant fleet and extensive trade network.
     
-- Actively invests in Shadowshard Crystal mining operations.
+- Actively invests in [[Shadowshard Crystal]] mining operations.
     
 - Frequently hires adventurers to protect guild interests.
     
